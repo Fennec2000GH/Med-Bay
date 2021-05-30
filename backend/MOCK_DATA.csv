@@ -1,0 +1,1001 @@
+id_no,blood_type,vaccines,bed_no,room_no,prescribed_rx,doctor
+1,A,Major Pharmaceuticals,1,1,Sertraline Hydrochloride,Rozanna Euston
+2,A,"PD-Rx Pharmaceuticals, Inc.",2,2,Erythromycin,Demeter Patillo
+3,AB,Rebel Distributors Corp,3,3,Sulfacetamide Sodium,Kristoforo Leslie
+4,O,"Blenheim Pharmacal, Inc.",4,4,ciprofloxacin,Nancee Kupisz
+5,O,"Allermed Laboratories, Inc.",5,5,Cupressus arizonica,Sibilla Moquin
+6,O,"Teva Women's Health, Inc.",6,6,levonorgestrel/ethinyl estradiol tablets and ethinyl estradiol tablets,Wye Tomaszczyk
+7,O,Jubilant HollisterStier LLC,7,7,Stemphylium botryosum,Moina Camber
+8,O,Galentic Pharma (India) Priva Te Limited,8,8,Bacitracin Zinc,Eulalie Barenskie
+9,O,E. Fougera & Co. a division of Fougera Pharmaceuticals Inc.,9,9,Betamethasone Dipropionate,Valera Mulqueen
+10,B,AvPAK,10,10,Phenytoin Sodium,Dallas Moreing
+11,O,Sanum Kehlbeck GmbH & Co. KG,11,11,penicillium chrysogenum var. chrysogenum,Claudie Garroway
+12,O,UNITED EXCHANGE CORP.,12,12,OXYMETAZOLINE HYDROCHLORIDE,Amby Gossart
+13,O,"Apotheca, Inc.",13,13,MISOPROSTOL,Kaitlin Oglesbee
+14,O,"SKINFOOD CO., LTD.",14,14,OCTINOXATE,Baxie Teece
+15,O,"ALK-Abello, Inc.",15,15,Red Mulberry,Kylie Frascone
+16,O,Target Corporation,16,16,calcium carbonate,Carroll Keymer
+17,O,"Teva Women's Health, Inc.",17,17,Norethindrone Acetate/Ethinyl Estradiol and Ferrous Fumarate,Ardenia Sterzaker
+18,O,"Glenmark Generics Inc., USA",18,18,Fosinopril Sodium and Hydrochlorothiazide,Elena Dunsmuir
+19,O,"Nelco Laboratories, Inc.",19,19,Stemphylium sarciniforms,Kalil Mcall
+20,O,"Accra-Pac, Inc.",20,20,Homosalate and Octinoxate and Octisalate and Avobenzone and Octocrylene and Oxybenzone,James Annes
+21,A,Rebel Distributors Corp,21,21,Prednisolone Sodium Phosphate,Claude Marti
+22,A,"Lofthouse of Fleetwood, Ltd.",22,22,Menthol,Nanny Kettlesing
+23,AB,Amerisource Bergen,23,23,"Dextromethorphan HBr, Guaifenesin",Sylvia Rustich
+24,O,SHISEIDO AMERICA INC.,24,24,OCTINOXATE and TITANIUM DIOXIDE,Jory McGucken
+25,O,Cardinal Health,25,25,Citalopram Hydrobromide,Lorrayne Gebb
+26,O,"Aphena Pharma Solutions - Tennessee, LLC",26,26,zolpidem tartrate,Guillema Ingle
+27,O,CHANEL PARFUMS BEAUTE,27,27,TITANIUM DIOXIDE,Barry Boome
+28,O,"New GPC, Inc.",28,28,HYDROQUINONE,Marty Bursell
+29,O,"Par Pharmaceutical, Inc.",29,29,travoprost,Hallie Kilian
+30,B,"CCA Industries, Inc.",30,30,LIDOCAINE,Sioux Varsey
+31,O,"Avon Products, Inc.",31,31,aluminum zirconium pentachlorohydrate,Anabella Pegler
+32,O,Qualitest Pharmaceuticals,32,32,Simethicone,Johannes Tubby
+33,O,Dermarite Industries LLC,33,33,OTC ANTIMICROBIAL DRUG PRODUCT,Andie Harrhy
+34,O,ARSOA USA INC.,34,34,TITANIUM DIOXIDE,Rodolphe Critchlow
+35,O,"Ventura International, LTD",35,35,"OCTINOXATE, OXYBENZONE",Nancie Paroni
+36,O,Sanum Kehlbeck GmbH & Co. KG,36,36,"lactic acid, l-",Felecia Sherwood
+37,O,"NATURE REPUBLIC CO., LTD.",37,37,DIMETHICONE,Chan Russ
+38,O,"Larken Laboratories, Inc.",38,38,Chlorpheniramine Maleate / Pseudoephedrine HCl,Tye Lount
+39,O,"Nelco Laboratories, Inc.",39,39,Salt Grass,Aron Guillet
+40,O,Cardinal Health,40,40,levetiracetam,Doy Van Driel
+41,A,Cardinal Health,41,41,Metoprolol tartrate,Sigmund Lambert-Ciorwyn
+42,A,Natural Health Supply,42,42,LEMNA MINOR,Harrison Seyffert
+43,AB,"Alva-Amco Pharmacal Companies, Inc.",43,43,Diphenhydramine Hydrochloride,Elissa Castille
+44,O,Baxter Healthcare Corporation,44,44,THROMBIN HUMAN and FIBRINOGEN,Nolly Androlli
+45,O,"Northwind Pharmaceuticals, LLC",45,45,Isoniazid,Marthena Kennifick
+46,O,Energizer Personal Care LLC,46,46,"AVOBENZONE, OCTOCRYLENE, OXYBENZONE",Ruby Foley
+47,O,"CCA Industries, Inc.",47,47,"ZINC OXIDE, OCTINOXATE",Lorri Pover
+48,O,Novartis Pharmaceuticals Corporation,48,48,oxcarbazepine,Carmen Lantuff
+49,O,American Sales Company,49,49,Acetaminophen,Morgana Broune
+50,B,YVES ROCHER NORTH AMERICA INC,50,50,ALCOHOL,Nickola Lavis
+51,O,McKesson,51,51,Clemastine fumarate,Mandie Borsi
+52,O,Pure Source Inc,52,52,"MENTHOL, ZINC OXIDE",Amargo Minico
+53,O,"Antigen Laboratories, Inc.",53,53,Black Birch,Vivien Gierardi
+54,O,GlaxoSmithKline Biologicals SA,54,54,influenza virus vaccine,Donny Jerson
+55,O,Teva Pharmaceuticals USA Inc,55,55,Diclofenac Potassium,Cash Goney
+56,O,Rodan & Fields,56,56,TITANIUM DIOXIDE,Natalya McInnerny
+57,O,"Taro Pharmaceuticals U.S.A., Inc.",57,57,Ammonium Lactate,Lionel Korejs
+58,O,GlaxoSmithKline LLC,58,58,hydrochlorothiazide and triamterene,Rad Adney
+59,O,"Elizabeth Arden, Inc",59,59,OCTINOXATE and TITANIUM DIOXIDE,Hattie McKibben
+60,O,Natures Way Holding Co.,60,60,Rhus toxicodendron,Temple Ferreiro
+61,A,"Oberon Cosmetic Co., Ltd.",61,61,dimethicone,Blakelee Drury
+62,A,"3LAB, Inc",62,62,TITANIUM DIOXIDE,Chad Plail
+63,AB,"Bath & Body Works, Inc.",63,63,Triclosan,Barbe Schimoni
+64,O,Meijer Distribution Inc,64,64,Omeprazole,Ugo Inwood
+65,O,Hybrid-Rx LLC,65,65,APAP 500 mg Phenylephrine HCL 5 mg Chlorpheniramine maleate 2 mg,Kip Roch
+66,O,"American Regent, Inc.",66,66,Glycopyrrolate,Rudyard Primo
+67,O,CVS Pharmacy,67,67,Dimethicone,Glenna Huxtable
+68,O,Major Pharmaceuticals,68,68,"acetaminophen, dextromethorphan hydrobromide and doxylamine succinate",Jehanna Rupel
+69,O,Cardinal Health,69,69,Ibuprofen,Gerry Anker
+70,B,Rite Aid Corporation,70,70,Selenium Sulfide,Bendix Kenneford
+71,O,Natura Bisse International,71,71,"Ethylhexyl Methoxycinnamate (Octinoxate), Titanium Dioxide, Zinc Oxide",Gabbey Giacometti
+72,O,"Nelco Laboratories, Inc.",72,72,Pepper Tree Pollen,Emlyn Diprose
+73,O,Mylan Institutional LLC,73,73,piperacillin and tazobactam,Alric Strelitzer
+74,O,Baxter Healthcare Corporation,74,74,Anti-Inhibitor Coagulant Complex,Nat Lerven
+75,O,Teva Select Brands,75,75,Fenofibrate,Emlyn Croley
+76,O,Mallinckrodt Inc (Brand Pharmaceuticals),76,76,baclofen,Orelia Donativo
+77,O,Gen-Source Rx,77,77,Pioglitazone Hydrochloride,Myca Real
+78,O,REMEDYREPACK INC.,78,78,Terazosin Hydrochloride,Brannon Seiller
+79,O,"Acella Pharmaceuticals, LLC",79,79,gabapentin,Matty Colson
+80,O,"Akrimax Pharmaceuticals, LLC",80,80,Levothyroxine Sodium,Sallyann Wattisham
+81,A,"Bare Escentuals Beauty, Inc.",81,81,Titanium Dioxide,Torie Bricknell
+82,A,Melaleuca Inc.,82,82,"Avobenzone 2.5%, Octinoxate 6%, Oxybenzone 3%",Lilith Wasielewicz
+83,AB,"Young Dental Manufacturing Co 1, LLC",83,83,Sodium Fluoride,Jo ann Cocker
+84,O,Major Pharmaceuticals,84,84,Saline,Del Kenner
+85,O,Mylan Pharmaceuticals Inc.,85,85,hydrochlorothiazide,Carline Ferraresi
+86,O,Blue Cross Laboratories,86,86,Ethyl Alcohol,Haywood O'Breen
+87,O,Jubilant HollisterStier LLC,87,87,Olive Olea europaea,Guendolen Ewan
+88,O,Boots Retail USA Inc,88,88,"Avobenzone, Octisalate and Octocrylene",Mariel Veque
+89,O,Legacy Pharmaceutical Packaging,89,89,Ibuprofen,Saxon Santora
+90,B,Colgate-Palmolive Company,90,90,Aluminum zirconium tetrachlorohydrex gly,Skylar Botwright
+91,O,Cardinal Health,91,91,methylprednisolone sodium succinate,Abram Schieferstein
+92,O,GlaxoSmithKline Biologicals SA,92,92,Haemophilus b Conjugate Vaccine (Tetanus Toxoid Conjugate),Stanly Matherson
+93,O,American Health Packaging,93,93,Methocarbamol,Ellynn Butterfield
+94,O,Topco Associates LLC,94,94,Dextromethorphan HBr,Dulcie Noblett
+95,O,"ABCO Laboratories, Inc.",95,95,"Argentium nitricum, Kali carbonicum, Glycirrhiza glabra",Papagena Vasyutichev
+96,O,"Eclat Pharmaceuticals, LLC",96,96,Neostigmine Methylsulfate,Boyd Cayzer
+97,O,Barr Laboratories Inc.,97,97,"Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate, and Amphetamine Sulfate",Boonie McDougall
+98,O,"Par Pharmaceutical , Inc",98,98,cyanocobalamin,Nicol Chaff
+99,O,"WOONSOCKET PRESCRIPTION CENTER,INCORPORATED",99,99,Aspirin,Cordell Matchell
+100,O,AGILA SPECIALTIES PRIVATE LIMITED,100,100,oxacillin,Joshia Elsip
+101,A,Welding & Therapy Service Inc.,101,101,Nitrous Oxide,Kaja Sleightholme
+102,A,Bracco Diagnostics Inc,102,102,IOPAMIDOL,Delmor Kelberman
+103,AB,ReadyMeds,103,103,sertraline hydrochloride,Gris Kingh
+104,O,Citron Pharma LLC,104,104,Fosinopril Sodium and Hydrochlorothiazide,Egon Dempsey
+105,O,"Eon Labs, Inc.",105,105,Zonisamide,Edi Gauchier
+106,O,"CHAIN DRUG CONSORTIUM, LLC",106,106,TOLNAFTATE,Andonis Harding
+107,O,"Medimetriks Pharmaceuticals, Inc.",107,107,fluocinolone acetonide,Frannie Jolliss
+108,O,New Sun Inc.,108,108,"Adenosinum cyclophosphoricum, Adrenocorticotrophin, Allium cepa, Arsenicum album, Cortisone aceticum, Euphrasia officinalis, Galphimia glauca, Histaminum hydrochloricum, Kali muriaticum, Mucosa nasalis suis, Natrum muriaticum, RNA, Sabadilla",Flem Verny
+109,O,"Upsher-Smith Laboratories, Inc.",109,109,Fentanyl,Merci Willowby
+110,B,REMEDYREPACK INC.,110,110,Oxcarbazepine,Jesselyn Isakovitch
+111,O,"Universal Cosmetic Co., Ltd",111,111,OCTINOXATE,Scot Sidon
+112,O,Bryant Ranch Prepack,112,112,Prazosin Hydrochloride,Montgomery Camelia
+113,O,Parfums Christian Dior,113,113,"OCTINOXATE, TITANIUM DIOXIDE",Dale Hynam
+114,O,Publix Super Markets Inc,114,114,calcium carbonate,Madeleine Creech
+115,O,E. Fougera & Co. a division of Fougera Pharmaceuticals Inc.,115,115,amcinonide,Florie Pettegre
+116,O,"Spartan Chemical Company, Inc.",116,116,Clean Xpress Alcohol Gel Instant Skin Santizer,Bambie Mushawe
+117,O,State of Florida DOH Central Pharmacy,117,117,lisinopril,Adrea Wavish
+118,O,"Aphena Pharma Solutions - Tennessee, LLC",118,118,temazepam,Myrtia Rainger
+119,O,"Nelco Laboratories, Inc.",119,119,Common Sagebrush,Georgette Shoebridge
+120,O,Cardinal Health,120,120,nitroglycerin,Shannon Tarren
+121,A,Zenith Medicosm SL,121,121,OCTINOXATE AVOBENZONE ZINC OXIDE OCTOCRYLENE,Odille De Bellis
+122,A,Lake Erie Medical DBA Quality Care Products LLC,122,122,Penicillin V Potassium,Shane Meynell
+123,AB,Rebel Distributors Corp,123,123,Hydroxyzine Hydrochloride,Cort Arrigo
+124,O,"GOJO Industries, Inc.",124,124,Triclosan,Zachary Raw
+125,O,"Sallus Laboratories, LLC",125,125,"Doxylamine Succinate, Pseudoephedrine Hydrochloride",Dewain Minifie
+126,O,Camber Pharmaceuticals,126,126,Naproxen,Burt Riteley
+127,O,"Mediserve Medical Equipment, Inc.",127,127,Oxygen,Kippie Pellamonuten
+128,O,"Carver Korea Co.,Ltd",128,128,"Niacinamide 2%, Adenosine 0.04%",Dorisa Hallgate
+129,O,Lake Erie Medical DBA Quality Care Products LLC,129,129,fluoxetine hydrochloride,Sean Wayon
+130,B,Apotheca Company,130,130,"Triticum aestivum, Alfalfa, Fucus vesiculosus, Laminaria digitata, Nasturtium aquaticum, Oryza sativa, Raphanus sativus, Symphytum officinale, Hordeum vulgare, Asparagus officinalis, Manganum gluconat",Alanson Sandry
+131,O,REMEDYREPACK INC.,131,131,Warfarin Sodium,Pooh Dabner
+132,O,"DermDeal, LLC DBA CheryLee MD, Sensitive Skin Care",132,132,CheryLee MD Sensitive Skin Care TrueLipids Double Action Boo-Boo Bum,Rudolph Grinston
+133,O,"ALK-Abello, Inc.",133,133,ASPERGILLUS NIGER,Salomi Trott
+134,O,Accord Healthcare Inc.,134,134,docetaxel,Lind Smeall
+135,O,"Allergy Laboratories, Inc.",135,135,celtis occidentalis pollen,Miguela Dumbrall
+136,O,"PD-Rx Pharmaceuticals, Inc.",136,136,Clonidine Hydrochloride,Freeman Slyman
+137,O,"Nelco Laboratories, Inc.",137,137,Longleaf Pine,Debra Van der Daal
+138,O,"Antigen Laboratories, Inc.",138,138,B Mold Mixture,Ephraim Dixon
+139,O,"AvKARE, Inc.",139,139,Nabumetone,Margaux Dohmer
+140,O,Susanne Lang Fragrance Inc.,140,140,Ethyl Alcohol,Arleen Fagence
+141,A,Kmart Corporation,141,141,Nicotine Polacrilex,Rosabelle Luca
+142,A,American Health Packaging,142,142,Citalopram,Kariotta Aprahamian
+143,AB,REMEDYREPACK INC.,143,143,Topiramate,Beverlee Windmill
+144,O,"MSD Consumer Care, Inc.",144,144,"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone",Gayler Fort
+145,O,"Ventura Corporation (San Juan, P.R)",145,145,OCTINOXATE and OXYBENZONE,Hansiain Novakovic
+146,O,Norwood Packaging Ltd.,146,146,PETROLATUM,Delphinia O'Lochan
+147,O,McKesson,147,147,Diphenhydramine HCl,Munroe Sexton
+148,O,Camber Pharmaceuticals,148,148,Ramipril,Jean Mahaffey
+149,O,"Certus Medical, Inc.",149,149,POVIDONE-IODINE,Priscella Donati
+150,B,Merwin Home Medical dba Robin Drup Corp.,150,150,OXYGEN,Raffaello Colquite
+151,O,"Physicians Total Care, Inc.",151,151,Doxepin Hydrochloride,Ameline Grouen
+152,O,Camber Pharmaceuticals,152,152,Warfarin Sodium,Troy Artindale
+153,O,"Avon Products, Inc.",153,153,TRICLOSAN,Alan Bendell
+154,O,Fresenius Medical Care North America,154,154,"Dextrose Monohydrate, Sodium Chloride, Calcium Chloride, Magnesium Chloride, Sodium Lactate",Gustavus Crosdill
+155,O,"Physicians Total Care, Inc.",155,155,potassium citrate,Brooke Smees
+156,O,Walgreen Company,156,156,"acetaminophen, dextromethorphan HBr, doxylamine succinate, phenylephrine HCl",Vania Benez
+157,O,"Bath & Body Works, Inc.",157,157,Alcohol,Biddy Gowrich
+158,O,Cardinal Health,158,158,dextromethorphan polistirex,Danika Batch
+159,O,"Dispensing Solutions, Inc.",159,159,Levothyroxine Sodium,Kelly Leamon
+160,O,Unit Dose Services,160,160,Oxycodone Hydrochloride,Greta Meneghi
+161,A,Apotheca Company,161,161,"Spongia tosta, Iodium Fucus vesiculosus, Belladonna, Adenosine triphosphate, Parathyroid,",Felix Laurand
+162,A,"Western Family Foods, Inc.",162,162,"Acetaminophen, Doxylamine succinate and Phenylephrine Hydrochloride",Carola Joska
+163,AB,"Nelco Laboratories, Inc.",163,163,Orange Pollen,Anastasie Shreeves
+164,O,"Kareway Product, Inc.",164,164,Capsaicin,Byrle Esmonde
+165,O,"Avon Products, Inc.",165,165,Aluminum Chlorohydrate,Manya Schmidt
+166,O,"ALK-Abello, Inc.",166,166,English Walnut,Blondy Danihelka
+167,O,Bausch & Lomb Incorporated,167,167,Phenylephrine Hydrochloride,Ermentrude Fielden
+168,O,Stat Rx USA,168,168,venlafaxine hydrochloride,Wash Carder
+169,O,"Medline Industries, Inc.",169,169,Sodium Fluoride,Idaline Cooper
+170,B,"DOLGENCORP, LLC",170,170,Acetaminophen,Amalea Pendle
+171,O,Uriel Pharmacy Inc.,171,171,Lycopodium Berberis,Heda Alben
+172,O,West-ward Pharmaceutical Corp.,172,172,Milrinone Lactate,Calypso Ponde
+173,O,Greenstone LLC,173,173,nifedipine,Rolfe Tarver
+174,O,"Newton Laboratories, Inc.",174,174,"Adrenalinum, Tarentula cubensis, Aconitum nap., Arg. nit., Arsenicum alb., Baptisia, Chamomilla, Cypripedium, Digitalis, Gelsemium, Humulus, Ignatia, Impatiens glandulifera flos, Iodium, Lachesis, Lycopodium, Nat. mur., Nux vom., Scutellaria lateriflora, Staphysag., Stramonium, Theridion, Echinacea, Gingko, Hypericum, Passiflora",Arlene Tarver
+175,O,Laboratoires M&L,175,175,"OCTOCRYLENE, HOMOSALATE, BUTYL METHOXYDIBENZOYLMETHANE/AVOBENZONE",Sheeree Wooles
+176,O,Spec Connection International Inc,176,176,Hyperbaric Chamber Mix,Ava Kyncl
+177,O,"Breckenridge Pharmaceutical, Inc.",177,177,Estradiol and Norethindrone Acetate,Tilda Tevelov
+178,O,King Bio Inc.,178,178,"Aconitum napellus, Apis mellifica, Arnica montana, Arsenicum album, Belladonna, Bellis perennis, Bryonia, Calendula officinalis, Chamomilla, Clematis erecta, Ferrum phosphoricum, Histaminum hydrochloricum, Hypericum perforatum, Ignatia amara, Passiflora incarnata, Phosphorous, Rhus toxicodendron, Sulphur, Symphytum officinale and Veratrum album,Clematis vitalba, flos, Impatiens glandulfera, flos, Ornithogalum Umbellatum, flos and Prunus cerasifera, flos.",Leda Mc Dermid
+179,O,Amerisource Bergen,179,179,Ranitidine,Deina Elkins
+180,O,Bryant Ranch Prepack,180,180,Benazepril Hydrochloride,Isidora Rangall
+181,A,Aurobindo Pharma Limited,181,181,Perindopril Erbumine,Beryl Jonathon
+182,A,Teva Pharmaceuticals USA Inc,182,182,Minocycline Hydrochloride,Kaela Hursey
+183,AB,SUPERVALU INC.,183,183,Acetaminophen,Russ London
+184,O,"Taro Pharmaceuticals U.S.A., Inc.",184,184,Clobetasol Propionate,Chloe Cordero
+185,O,"Bioelements, Inc.",185,185,"Avobenzone, Octinoxate, Octisalate, Octocrylene, Oxybenzone",Alfy Clement
+186,O,Lake Erie Medical DBA Quality Care Products LLC,186,186,Phenazopyridine,Gwenore Yanez
+187,O,"Toys""R""Us, Inc.",187,187,Simethicone,Wendeline Giacomucci
+188,O,Greenstone LLC,188,188,Latanoprost,Malcolm Colles
+189,O,"Allergy Laboratories, Inc.",189,189,egg white,Genny Greenroad
+190,B,Zermat Internacional,190,190,Aluminum chlorohydrate,Dedie Gaize
+191,O,Septodont Inc.,191,191,Articaine Hydrochloride and Epinephrine Bitartrate,Sergeant Twigger
+192,O,Blaine Labs Inc.,192,192,MICONAZOLE NITRATE,Agneta Niave
+193,O,STAT RX USA LLC,193,193,NIFEDIPINE,Hunt Castanie
+194,O,Preferred Plus (Kinray),194,194,SIMETHICONE,Pepe Cosgreave
+195,O,Cardinal Health,195,195,Temazepam,Caron Novis
+196,O,Wagner Welding Supply,196,196,Oxygen,Andres Grute
+197,O,"E. FOUGERA & CO., A division of Fougera Pharmaceuticals Inc.",197,197,fluocinolone acetonide,Kristien Lafflina
+198,O,Unit Dose Services,198,198,Lovastatin,Alvinia Haffard
+199,O,Mylan Institutional Inc.,199,199,zonisamide,Aaron Carverhill
+200,O,Major Pharmaceuticals,200,200,DONEPEZIL HYDROCHLORIDE,Kanya Kermott
+201,A,St Marys Medical Park Pharmacy,201,201,METFORMIN HYDROCHLORIDE,Bev Paradis
+202,A,Heel Inc,202,202,BLACK COHOSH and STRONTIUM CARBONATE,Davis Reily
+203,AB,LAURA GELLER MAKE UP INC.,203,203,TITANIUM DIOXIDE,Cammy Ivanishchev
+204,O,Unit Dose Services,204,204,Carvedilol,Angelique Boustred
+205,O,Supervalu Inc,205,205,"Cetirizine HCl, Pseudoephedrine HCl",Natka Tuffield
+206,O,CVS Pharmacy,206,206,Diphenhydramine HCl,Clevey Huggons
+207,O,Fenwal Inc,207,207,Anticoagulant Citrate Dextrose Solution Formula A,Lazaro Crowd
+208,O,Proficient Rx LP,208,208,Ibuprofen,Gustie Donaldson
+209,O,Wockhardt USA LLC.,209,209,Bupropion Hydrochloride,Conrad Duthy
+210,B,"Purepoint, Inc",210,210,OXYGEN,Kin Teideman
+211,O,Major Pharmaceuticals,211,211,sodium chloride,Sophronia Sale
+212,O,HyVee Inc,212,212,"Dextromethorphan HBr, Guaifenesin",Mallory Beetham
+213,O,REMEDYREPACK INC.,213,213,Levothyroxine Sodium,Chas Rablen
+214,O,Lake Erie Medical DBA Quality Care Products LLC,214,214,morphine sulfate,Shurlocke Cumberpatch
+215,O,"Allermed Laboratories, Inc.",215,215,Kapok,Lila Clay
+216,O,"Autumn Harp, Inc.",216,216,Salicylic Acid,Hall Phayre
+217,O,State of Florida DOH Central Pharmacy,217,217,Sulfamethoxazole and Trimethoprim,Sharlene Chislett
+218,O,Stat Rx USA,218,218,TRAMADOL HYDROCHLORIDE,Shir Sanford
+219,O,DZA Brands LLC,219,219,Diphenhydramine HCl,Johny Learmouth
+220,O,REMEDYREPACK INC.,220,220,Carvedilol,Killy Haydn
+221,A,TARGET CORPORATION,221,221,WHITE PETROLATUM,Henry Yeardsley
+222,A,Sam's West Inc,222,222,Ibuprofen,Betteann Waddie
+223,AB,Neutrogena Corporation,223,223,Salicylic Acid,Joachim Baumford
+224,O,Golden State Medical Supply Inc.,224,224,Glipizide,Alisha Leaves
+225,O,Barr Laboratories Inc.,225,225,Ethambutol Hydrochloride,Bianka Dearnaley
+226,O,AnazaoHealth Corporation,226,226,i 123 MIBG,Gasparo Hens
+227,O,Walgreen Company,227,227,"Bacitracin, Neomycin, Polymyxin B",Clemente Gourdon
+228,O,CONOPCO Inc. d/b/a Unilever,228,228,Triclosan,Doy Soppett
+229,O,"AG Professional Hair Care Products, Ltd",229,229,PYRITHIONE ZINC,Cherlyn Loker
+230,B,Bryant Ranch Prepack,230,230,Levothyroxine Sodium,Jorry Szymaniak
+231,O,Origin Biomed Inc.,231,231,"Aconitum Napellus, Hypericum Perforatum, Lycopodium clavatum, Phosphorus, Rhus Toxicodendron, Secale Cornutum",Javier Doiley
+232,O,Micro Labs Limited,232,232,Simvastatin,Anselma Jeandon
+233,O,Target Corporation,233,233,Acetaminophen,Jasen Teresi
+234,O,"Airgas-West, Inc.",234,234,Carbon Dioxide,Erin Marcoolyn
+235,O,"Medline Industries, Inc.",235,235,Hydrogen Peroxide,Dalila Haldin
+236,O,"Rugby Laboratories, Inc.",236,236,magnesium hydroxide,Julieta Andre
+237,O,TYA Pharmaceuticals,237,237,Trazodone Hydrochloride,Billie Synke
+238,O,Jubilant HollisterStier LLC,238,238,Tree Mix 11,Theodora Blackborough
+239,O,Breakthrough Products Inc.,239,239,aspirin,Livy Brunn
+240,O,Pack Pharmaceuticals LLC,240,240,Potassium Chloride,Evie Bloxham
+241,A,Aurobindo Pharma Limited,241,241,Citalopram Hydrobromide,Horatius Kinig
+242,A,Cardinal Health,242,242,Hydroxyzine Hydrochloride,Edik Baert
+243,AB,"General Injectables & Vaccines, Inc",243,243,Furosemide,Brose Allsop
+244,O,"Watson Laboratories, Inc.",244,244,Sodium Ferric Gluconate Complex,Sharron Dicker
+245,O,Kmart Corporation,245,245,Ibuprofen,Jeniffer Jepensen
+246,O,American Health Packaging,246,246,Fludrocortisone Acetate,Blondie Smithies
+247,O,"Physicians Total Care, Inc.",247,247,oxycodone and aspirin,Lilly Breyt
+248,O,A-S Medication Solutions LLC,248,248,PredniSONE,Ursulina Epgrave
+249,O,"Golden State Medical Supply, Inc",249,249,METFORMIN HYDROCHLORIDE,Helga Salerno
+250,B,"APP Pharmaceuticals, LLC",250,250,LIDOCAINE HYDROCHLORIDE,Deana Cattanach
+251,O,Cardinal Health,251,251,Glycopyrrolate,Wendall Nancekivell
+252,O,"H.J. Harkins Company, Inc.",252,252,Aspirin,Cirstoforo Sweeten
+253,O,Jubilant HollisterStier LLC,253,253,Helminthosporium interseminatum,Eustacia Caney
+254,O,SHISEIDO AMERICAS CORPORATION,254,254,Octinoxate and Titanium dioxide,Jorry Fenning
+255,O,GeneraMedix Inc.,255,255,Melphalan Hydrochloride,Richardo Parnall
+256,O,"Physicians Total Care, Inc.",256,256,albuterol sulfate,Abbey Chicchetto
+257,O,International Beauty Exchange,257,257,HYDROQUINONE,Freeland Aldhous
+258,O,"Physicians Total Care, Inc.",258,258,fluvastatin sodium,Felix Manhood
+259,O,Colgate Palmolive Company,259,259,Aluminum Zirconium Tetrachlorohydrex Gly,Leonerd Benning
+260,O,Dukal Corporation,260,260,BENZOCAINE,Hertha Zavittieri
+261,A,"Lofthouse of Fleetwood, Ltd.",261,261,Menthol,Boycey Headingham
+262,A,GlaxoSmithKline LLC,262,262,sumatriptan succinate,Gavra Jaynes
+263,AB,THE KROGER CO,263,263,AVOBENZONE HOMOSALATE OCTISALATE OCTOCRYLENE OXYBENZONE,Kelli Cornill
+264,O,Fabrication Enterprises,264,264,menthol,Lu Vacher
+265,O,Clinical Solutions Wholesale,265,265,Warfarin Sodium,Eulalie Pritchitt
+266,O,"Lannett Company, Inc.",266,266,Ursodiol,Nikolaos Neads
+267,O,Major Pharmaceuticals,267,267,Doxazosin,Hurley Mayne
+268,O,Cantrell Drug Company,268,268,Ropivacaine HCl,Gabe Wontner
+269,O,The Doctor's Cosmetic Inc,269,269,ADENOSINE GLYCERIN,Corilla Hellmore
+270,B,Cardinal Health,270,270,Digoxin,Jonie Sandiland
+271,O,Western Family Foods Inc,271,271,Cetirizine Hydrochloride,Maurizia Kleinstein
+272,O,Mylan Pharmaceuticals Inc.,272,272,Oxycodone hydrochloride and Acetaminophen,Skippie Sawnwy
+273,O,Nnodum Pharmaceuticals,273,273,"FERROUS FUMARATE, ASCORBIC ACID, FOLIC ACID, CYANOCOBALAMIN",Hyacinth McGaughay
+274,O,LAURA GELLER MAKE UP INC.,274,274,TITANIUM DIOXIDE,Nikita Innocenti
+275,O,McKesson,275,275,Cetirizine Hydrochloride,Kipper Polack
+276,O,American Health Packaging,276,276,Terbutaline Sulfate,Scarlett Georgeon
+277,O,STAT Rx USA LLC,277,277,Naproxen,Ermentrude Heinsius
+278,O,"Antigen Laboratories, Inc.",278,278,Hog Hair,Hildegarde Stennard
+279,O,Sandoz Inc,279,279,tamsulosin hydrochloride,Antonina Selly
+280,O,"Bestco, Inc.",280,280,"DEXTROMETHORPHAN HYDROBROMIDE, MENTHOL",Cristabel Mellhuish
+281,A,Roerig,281,281,sertraline hydrochloride,Debby Lassetter
+282,A,REMEDYREPACK INC.,282,282,doxercalciferol,Farris Pahler
+283,AB,REMEDYREPACK INC.,283,283,Amlodipine Besylate,Kinsley Speke
+284,O,Sun Pharmaceutical Industries Limited,284,284,ONDANSETRON HYDROCHLORIDE,Holly Mussetti
+285,O,"Preferred Pharmaceuticals, Inc.",285,285,Quetiapine Fumarate,Zaria Rumford
+286,O,Carilion Materials Management,286,286,carvedilol phosphate,Job Crabb
+287,O,REMEDYREPACK INC.,287,287,Chlordiazepoxide Hydrochloride,Ulrich Gillimgham
+288,O,"Nelco Laboratories, Inc.",288,288,California Black Oak,Sigismundo Faveryear
+289,O,"Lupin Pharmaceuticals, Inc.",289,289,Amlodipine Besylate and Benazepril Hydrochloride,Annmaria Viger
+290,B,Safeway,290,290,Naproxen sodium,Gavra Jirak
+291,O,REMEDYREPACK INC.,291,291,Paroxetine Hydrochloride,Finlay Summergill
+292,O,Parfums Christian Dior,292,292,"OCTINOXATE, TITANIUM DIOXIDE",Debbie Umney
+293,O,Hikma Pharmaceutical,293,293,Amoxicillin and Clavulanate Potassium,Olly Whaley
+294,O,"Dharma Research, inc.",294,294,Sodium Fluoride,Halli Spada
+295,O,"HANBUL COSMETICS CO., LTD.",295,295,TITANIUM DIOXIDE,Florida Suatt
+296,O,A-S Medication Solutions LLC,296,296,Clindamycin Hydrochloride,Manuel MacKibbon
+297,O,GREEN LIFE,297,297,Witch Hazel,Boonie Houndsom
+298,O,"MSD Consumer Care, Inc.",298,298,"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone",Nicoli Tourner
+299,O,Bryant Ranch Prepack,299,299,Sulfamethoxazole and Trimethoprim,Rasla Skyrme
+300,O,Contract Pharmacy Services-PA,300,300,Ibuprofen,Gill Allone
+301,A,"AvKARE, Inc.",301,301,Ciprofloxacin,Asia Battram
+302,A,"Para Pharm, Inc. dba Medical Pharmacy",302,302,Oxygen,Loni Juara
+303,AB,SCI International,303,303,Benzocaine and Resorcinol,Rodolph Pollak
+304,O,NARS Cosmetics,304,304,"AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE, and OXYBENZONE",Bride Hardy-Piggin
+305,O,"Two Hip Consulting, LLC",305,305,"METHYL SALICYLATE, MENTHOL AND CAPSAICIN",Dela Setterington
+306,O,Temple Industrial Welding Supply Co,306,306,Oxygen,Cecil Kaine
+307,O,"Preferred Pharmaceuticals, Inc.",307,307,Triamterene and Hydrochlorothiazide,Amby Sieghard
+308,O,American Red Cross,308,308,"BENZALKONIUM CHLORIDE, LIDOCAINE, WATER, ISOPROPYL ALCOHOL, ASPIRIN",Geno Konmann
+309,O,"Watson Laboratories, Inc.",309,309,Fentanyl,Barth Bissett
+310,B,KAS Direct LLC dba BabyGanics,310,310,BENZALKONIUM CHLORIDE,Chaim Simioli
+311,O,Walgreen Company,311,311,Naproxen Sodium,Letty Peploe
+312,O,National Distribution Network (Smart Choice),312,312,"Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate",Trixie Cobello
+313,O,Family Dollar Servicesm Inc,313,313,Sodium fluoride,Eveleen Dank
+314,O,"Pharmaceutical Associates, Inc.",314,314,GUAIFENESIN and DEXTROMETHORPHAN,Felipe Rilings
+315,O,Mylan Institutional Inc.,315,315,Chlorpromazine Hydrochloride,Chris Swinn
+316,O,MEIJER DISTRIBUTION INC,316,316,TRICLOSAN,Leone Travers
+317,O,"ALK-Abello, Inc.",317,317,Hazelnut Pollen,Sarah Breckwell
+318,O,"Newton Laboratories, Inc.",318,318,"Elaps corallinus, Aconitum nap.,Aur. met., Baryta carb., Belladonna, Crotalus horridus, Gelsemium, Hamamelis, Lachesis, Merc. viv.,Phosphorus, Picricum ac., Plumbum met., Pulsatilla,Rhus toxicodendron, Stramonium, Theridion, Euphrasia",Friederike Gierek
+319,O,Cardinal Health,319,319,Magnesium citrate,Harley Strickler
+320,O,"AvKARE, Inc.",320,320,Rabeprazole Sodium,Gwenora Blinco
+321,A,Carilion Materials Management,321,321,Clomipramine Hydrochloride,Adda Merigeau
+322,A,Valeant Pharmaceuticals North America LLC,322,322,Hydroquinone and Octinoxate,Stefania Mackiewicz
+323,AB,REMEDYREPACK INC.,323,323,Prochlorperazine maleate,Ezra Ginger
+324,O,REMEDYREPACK INC.,324,324,Doxepin Hydrochloride,Milli Duddridge
+325,O,"Nelco Laboratories, Inc.",325,325,Coast Maple,Tabatha Wainscot
+326,O,West-Ward Pharmaceutical Corp,326,326,Irinotecan Hydrochloride,Sharline Vaudre
+327,O,McKesson,327,327,Nicotine Polacrilex,Karena Collisson
+328,O,AnazaoHealth Corporation,328,328,Isosulfan Blue,Ofelia Gendricke
+329,O,"Hospira, Inc.",329,329,ERYTHROMYCIN LACTOBIONATE,Bev Pettipher
+330,B,Energetix Corp,330,330,Homeopathic Liquid,Vanessa Crut
+331,O,"Medline Industries, Inc.",331,331,Acetaminophen,Theresina Woodham
+332,O,Accord Healthcare Inc.,332,332,topotecan hydrochloride,Edee Rounds
+333,O,Mylan Institutional LLC,333,333,Zoledronic acid,Nester Hullyer
+334,O,Neutrogena Corporation,334,334,Salicylic Acid,Moss Plumtree
+335,O,"JUBILANT CADISTA PHARMACEUTICALS, INC.",335,335,Methylprednisolone,Jory Coughlan
+336,O,Bryant Ranch Prepack,336,336,Nitrofurantoin Macrocrystals,Ardyth Shelp
+337,O,"IWS Gas and Supply of Texas, LTD",337,337,Nitrogen,Danyette Ubsdell
+338,O,Uriel Pharmacy Inc.,338,338,Dioscorea batata 16 Special Order,Caldwell Benoey
+339,O,"PD-Rx Pharmaceuticals, Inc.",339,339,zolpidem tartrate,Steve Grichukhanov
+340,O,Carolina Medical Products Company,340,340,Triamcinolone Acetonide,Donni MacGinlay
+341,A,"Antigen Laboratories, Inc.",341,341,Treatment Set TS332344,Clio Tatteshall
+342,A,"Newton Laboratories, Inc.",342,342,"Antimon. crud., Arsenicum alb., Aur. met., Berber. aqui., Bovista, Carbo veg., Causticum, Chelidonium majus, Dulcamara, Graphites, Hepar sulph. calc., Hydrocotyle, Kali brom., Kali iod., Ledum, Lycopodium, Nux vom., Silicea, Sulphur iod., Zinc. met., Echinacea, Juglans regia, Lappa, Taraxacum",Arleen Macallam
+343,AB,Cardinal Health,343,343,levothyroxine sodium tablets,Loleta Stoneman
+344,O,Mylan Pharmaceuticals Inc.,344,344,selegiline hydrochloride,Maurise Revie
+345,O,"Nelco Laboratories, Inc.",345,345,Firebush/Burning Bush,Madelina de Merida
+346,O,"Nelco Laboratories, Inc.",346,346,Sweet Gum,Pooh Dey
+347,O,AstraZeneca Pharmaceuticals LP,347,347,metoprolol succinate and hydrochlorothiazide,Ulrick Kepp
+348,O,NARS Cosmetics,348,348,OCTINOXATE and TITANIUM DIOXIDE,Ketti Dugdale
+349,O,"AvKARE, Inc.",349,349,Metformin Hydrochloride,Eustacia Ciciari
+350,B,Aidarex Pharmaceuticals LLC,350,350,bupropion hydrochloride,Lolita Allden
+351,O,Perrigo Company,351,351,Neomycin and Polymyxin B Sulfates and Gramicidin,Kelli Rentoll
+352,O,Neutrogena Corporation,352,352,"Homosalate, Octinoxate, Octisalate, and Oxybenzone",Othelia Grimsley
+353,O,"Golden State Medical Supply, Inc.",353,353,sotalol hydrochloride,Ive Pineaux
+354,O,"Nelco Laboratories, Inc.",354,354,Salt Grass,Allison Jessard
+355,O,Cardinal Health,355,355,venlafaxine hydrochloride,Herrick Roxbrough
+356,O,"Creations Garden Natural Products, Inc.",356,356,"Camphor, Menthol, and Methyl Salicylate",Briant Rihanek
+357,O,Zydus Pharmaceuticals (USA) Inc.,357,357,meloxicam,Hewe Latham
+358,O,Indiana Botanic Gardens,358,358,"silver nitrate, eyebright, carbonate of potassium, garden rue",Finlay Howieson
+359,O,"TONYMOLY CO., LTD.",359,359,"OCTINOXATE, OCTISALATE",Dana Prewer
+360,O,Sanofi Pasteur Inc.,360,360,CORYNEBACTERIUM DIPHTHERIAE TOXOID ANTIGEN (FORMALDEHYDE INACTIVATED) and CLOSTRIDIUM TETANI TOXOID ANTIGEN (FORMALDEHYDE INACTIVATED),Art Walduck
+361,A,HOMEOLAB USA INC.,361,361,"ASA FOETIDA,IGNATIA AMARA,VALERIANA OFFICINALIS,AVENA SATIVA,ARGENTUM NITRICUM",Christen Kynastone
+362,A,McKesson (Sunmark),362,362,"Acetaminophen, Diphenhydramine HCl",Hyacintha Drogan
+363,AB,"Genesis Pharmaceutical, Inc.",363,363,salicylic acid,Camila Roslen
+364,O,BrandStorm HBC,364,364,SULFUR,Simone Cowans
+365,O,"NATURE REPUBLIC CO., LTD.",365,365,"Titanium Dioxide, OCTINOXATE, Zinc Oxide",Steffi Moorerud
+366,O,Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC,366,366,olmesartan medoxomil and hydrochlorothiazide,Audie Renachowski
+367,O,Medi-Physics Inc.,367,367,TECHNETIUM TC-99M SODIUM PERTECHNETATE,Annabell Lysaght
+368,O,AR Medicom Inc,368,368,Sodium Fluoride,Donall Reynoldson
+369,O,"Greenbrier International, Inc.",369,369,TRICLOSAN,Tracy Firminger
+370,B,Unifirst First Aid Corporation,370,370,Hydrocortisone,Den Hubberstey
+371,O,Teva Pharmaceuticals USA Inc,371,371,Fluocinonide,Dean Sutherns
+372,O,Apotheca Company,372,372,Bowel Nosode B Faecalis,Reinaldos Slinn
+373,O,"NATURE REPUBLIC CO., LTD.",373,373,"Glycerin, Dimethicone",Zelma Sharpling
+374,O,Macleods Pharmaceuticals Limited,374,374,Amlodipine,Mercedes Whitmell
+375,O,Ole Henriksen of Denmark,375,375,"AVOBENZONE,HOMOSALATE, OCTISALATE,OCTOCRYLENE,OXYBENZONE",Devina Aseef
+376,O,Oral BioTech,376,376,Anticaries,Konstanze Sybry
+377,O,"HANSKIN CO., LTD.",377,377,"Titanium Dioxide, Zinc Oxide",Franz McLukie
+378,O,CARDINAL HEALTH,378,378,Chlorpheniramine Maleate,Frederico Bosche
+379,O,American Health Packaging,379,379,Methocarbamol,Katuscha Nesterov
+380,O,Herbalife International of America Inc.,380,380,"Avobenzone, Octinoxate, Octisalate",Carny Kubicki
+381,A,Sandoz Inc,381,381,Amitriptyline Hydrochloride,Kayla Strathe
+382,A,Cardinal Health,382,382,fenofibrate,Glenn Matterson
+383,AB,Target Corporation,383,383,Glycerin and propylene glycol,Rosalinda Ratchford
+384,O,Cardinal Health,384,384,"Magnesium Hydroxide, Aluminum Hydroxide, Simethicone",Leesa Plumm
+385,O,Centurion Labs,385,385,"Iron, Sodium Ascorbate, Thiamine Mononitrate, Riboflavin, Pyridoxine Hydrochloride, Folic Acid, Cyanocobalamin, Niacinamide, Calcium Pantothenate, Zinc Sulfate, Magnesium Sulfate, Manganese Sulfate, a",Yves Strathman
+386,O,Clinical Solutions Wholesale,386,386,Levothyroxine Sodium,Norris Fautley
+387,O,Natureplex LLC,387,387,WITCH HAZEL and PHENYLEPHRINE HYDROCHLORIDE,Noel Sprowle
+388,O,Novartis Pharmaceuticals Corporation,388,388,Indacaterol maleate,Garnette Baccus
+389,O,"Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.",389,389,SIROLIMUS,Sol Hulls
+390,B,Kroger Company,390,390,"Cetirizine HCl, Pseudoephedrine HCl",Gay Paternoster
+391,O,Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC,391,391,Methocarbamol,Yehudit Cooke
+392,O,General Air Service & Supply Co,392,392,Carbon Dioxide Oxygen Mixture,Almeda Tickel
+393,O,"OMP, INC.",393,393,"HYDROQUINONE, OCTINOXATE, AND ZINC OXIDE",Ree Saffin
+394,O,State of Florida DOH Central Pharmacy,394,394,Lisinopril,Werner Skipsey
+395,O,Dermik Laboratories,395,395,metronidazole,Tatiana Pedrollo
+396,O,Topco Associates LLC,396,396,"Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride",Angelo Syphas
+397,O,"SJ Creations, Inc.",397,397,Triclosan,Izak Danzey
+398,O,Lake Erie Medical DBA Quality Care Products LLC,398,398,Fluoxetine,Damon Danev
+399,O,"Holston Gases, Inc",399,399,NITROUS OXIDE,Evin Abelson
+400,O,"ALK-Abello, Inc.",400,400,False Ragweed Bur,Mersey Cordery
+401,A,American Health Packaging,401,401,Levofloxacin,Grover Coldham
+402,A,"H.J. Harkins Company, Inc.",402,402,Nabumetone,Hillery Peatman
+403,AB,McKesson,403,403,"Aluminum hydroxide, Magnesium hydroxide, Simethicone",Gabe Crop
+404,O,Rebel Distributors Corp,404,404,"Butalbital, Acetaminophen, and Caffeine",Hyacintha Stenners
+405,O,Shionogi Inc.,405,405,Naproxen Sodium,Crissy Vuitton
+406,O,Reckitt Benckiser LLC,406,406,Oxymetazoline Hydrochloride,Fritz Beynkn
+407,O,Major Pharmaceuticals,407,407,Ropinirole Hydrochloride,Claribel Niblo
+408,O,Mylan Pharmaceuticals Inc.,408,408,tolterodine,Joice Taylerson
+409,O,"Episciences, Inc.",409,409,"Zinc Oxide, Homosalate, Octisalate",Sallee Scurry
+410,B,"Allure Labs, Inc.",410,410,Zinc Oxide,Constantino Petters
+411,O,"Allergy Laboratories, Inc.",411,411,picea pungens pollen,Carmon Grunnell
+412,O,"Physicians Total Care, Inc.",412,412,Amoxicillin and Clavulanate Potassium,Effie O'Donegan
+413,O,"ALK-Abello, Inc.",413,413,Walnut Black Pollen,Parsifal Riquet
+414,O,Pharmacia and Upjohn Company,414,414,alprazolam,Shamus Pringuer
+415,O,"Deseret Biologicals, Inc.",415,415,"Echinacea (Angustifolia), Echinacea purpurea, Bellis perennis, Calendula officinalis, Hamamelis virginiana, Aconitrum napellus, Chamomilla, Hypericum perforatum, Belladonna,",Lavinie Duckels
+416,O,Parke-Davis Div of Pfizer Inc,416,416,PREGABALIN,Morna Andrivot
+417,O,"Physicians Total Care, Inc.",417,417,Ibuprofen,Berny Disdel
+418,O,"Watson Laboratories, Inc.",418,418,Pentazocine HCl and Acetaminophen,Allis Lidgertwood
+419,O,Zydus Pharmaceuticals (USA) Inc.,419,419,Ribavirin,Margy Blockey
+420,O,Energetix Corp,420,420,Homeopathic Liquid,Sigmund Stickens
+421,A,Macleods Pharmaceuticals Limited,421,421,Valsartan and Hydrochlorothiazide,Kerr Rominov
+422,A,Neutrogena Corporation,422,422,Titanium Dioxide,Marylin Robberecht
+423,AB,Pfizer Laboratories Div Pfizer Inc,423,423,Heparin Sodium,Tommy Lidgate
+424,O,"Golden State Medical Supply, Inc.",424,424,Fluvoxamine Maleate,Jobye Garard
+425,O,"AvKARE, Inc.",425,425,Atenolol,Myrlene Guarin
+426,O,"APP Pharmaceuticals, LLC",426,426,Folic Acid,Borden Beardshaw
+427,O,Blistex Inc.,427,427,"Dimethicone, Octinoxate, Oxybenzone, and Lanolin",Barbi Gosneye
+428,O,"Bolero Home Decor, Inc.",428,428,BENZALKONIUM CHLORIDE,Garold Jolley
+429,O,Conopco Inc. d/b/a Unilever,429,429,Aluminum Zirconium Tetrachlorohydrex GLY,Gus Farguhar
+430,B,Kao Brands Company,430,430,Aluminum Chlorohydrate,Ferdy Spaight
+431,O,Biologische Heilmittel Heel,431,431,PULSATILLA VULGARIS and EUPHORBIA RESINIFERA RESIN and LUFFA OPSILVER NITRATEERCULATA FRUIT and MERCURIC IODIDE and SUS SCROFA NASAL MUCOSA and SILVER NITRATE and CALCIUM SULFIDE and SINUSITISINUM,Othella Gelland
+432,O,"US Airways, Inc",432,432,Sodium Monofluorophosphate,Friedrick Simeone
+433,O,AbbVie Inc.,433,433,Eprosartan Mesylate and Hydrochlorothiazide,Anetta Sallans
+434,O,"ALK-Abello, Inc.",434,434,American Cockroach,Nanete Drain
+435,O,Aidarex Pharmaceuticals LLC,435,435,Amitriptyline Hydrochloride,Anne-marie Jurn
+436,O,Alembic Pharmaceuticals Limited,436,436,ROPINIROLE HYDROCHLORIDE,Sigismondo Battrick
+437,O,UNIFIRST FIRST AID CORPORATION,437,437,"Guaifenesin, Dextromethorphan Hbr",Granny Torpie
+438,O,TOO FACED COSMETICS,438,438,TITANIUM DIOXIDE,Abdul Sacaze
+439,O,Rochester Pharmaceuticals,439,439,Salicylic Acid,Stavro Errichi
+440,O,7-Eleven,440,440,Diphenhydramine HCl,Andi O'Fihily
+441,A,Ranbaxy Pharmaceuticals Inc.,441,441,Flecainide,Cortie Heatley
+442,A,Bryant Ranch Prepack,442,442,cyclobenzaprine hydrochloride,Josie Dunkinson
+443,AB,Cardinal Health,443,443,Polyethylene Glycol 3350,Kinsley Willmett
+444,O,Sanum Kehlbeck GmbH & Co. KG,444,444,OKOUBAKA AUBREVILLEI BARK,Simeon O'Doohaine
+445,O,Natural Health Supply,445,445,MENTHOL,Guillema Ruler
+446,O,Uriel Pharmacy Inc.,446,446,Berberis Populus,Gwenette Ciccottio
+447,O,Melaleuca Inc.,447,447,"Avobenzone 2.5%, Octinoxate 6%, Oxybenzone 3%",Regan Matthews
+448,O,Reckitt Benckiser LLC,448,448,Salicylic Acid,Maybelle Monini
+449,O,Baxter Healthcare Corporation,449,449,antihemophilic factor recombinant,Rozamond Philip
+450,B,"Glenmark Generics Inc., USA",450,450,Ciclopirox Olamine,Perceval Wildbore
+451,O,Cadila Healthcare Limited,451,451,risperidone,Cecile Keppie
+452,O,Ventura Corporation LTD.,452,452,Octinoxate,Estell O'Brogan
+453,O,Procter & Gamble Manufacturing Company,453,453,Sodium Fluoride,Christophorus Jerromes
+454,O,"Rising Pharmaceuticals, Inc.",454,454,riluzole,Doria Beades
+455,O,"Cargus International, Inc.",455,455,Benzocaine Gel,Odille Charlo
+456,O,"MallyGirl, LLC",456,456,"TITANIUM DIOXIDE, ZINC OXIDE",Patrice Yoskowitz
+457,O,"Lil' Drug Store Products, Inc.",457,457,Guaifenesin and Dextromethorphan Hydrobromide,Nanete Petche
+458,O,Similasan Corporation,458,458,Belladonna and Euphrasia and Hepar Sulphuris and Thuja,Arron Van Niekerk
+459,O,Terumo Corporation,459,459,Anticoagulant Citrate Phosphate Dextrose (CPD) AND AS-5 Red Cell Preservative,Lisbeth Berg
+460,O,KANEBO COSMETICS INC,460,460,TITANIUM DIOXIDE and OCTINOXATE,Omero Staniland
+461,A,"Mycone Dental Supply Co., Inc DBA Keystone Industries and Deepak Products Inc",461,461,Benzocaine,Moselle Nevill
+462,A,Teva Pharmaceuticals USA Inc,462,462,Tramadol Hydrochloride,Francyne Hitchens
+463,AB,Cardinal Health,463,463,adenosine,Marianne Slinn
+464,O,7-Eleven,464,464,"Acetaminophen, Dextromethorphan HBr, Doxylamine succinate",Mattias Woodwin
+465,O,"Physicians Total Care, Inc.",465,465,furosemide,Ignace Tomasicchio
+466,O,North Safety Products,466,466,Menthol,Kettie Stonnell
+467,O,Kmart Corporation,467,467,"Dextromethorphan Hydrobromide, Doxylamine Succinate",Flin Wallworke
+468,O,RITE AID,468,468,LANOLIN AND PETROLATUM,Jerri Carlsson
+469,O,"FSC Laboratories, Inc",469,469,dextroamphetamine sulfate,Averyl Rowaszkiewicz
+470,B,"Stephen L. LaFrance Pharmacy, Inc.",470,470,witch hazel,Calley Sherme
+471,O,"L.N.K. International, Inc.",471,471,Phenylephrine HCl,Braden Tomasino
+472,O,Norwood Packaging Ltd.,472,472,"OCTINOXATE, OCTOCRYLENE, OCTISALATE, and OXYBENZONE",Ede Dulen
+473,O,"Lupin Pharmaceuticals, Inc.",473,473,quetiapine fumarate,Cherlyn Burgise
+474,O,Viny Health and Beauty Inc,474,474,Petrolatum,Maxwell Galvan
+475,O,"Boca Pharmacal, LLC",475,475,Levetiracetam,Mariam Thinn
+476,O,Aetna Felt Corp,476,476,Salicylic Acid,Vanny Possell
+477,O,Access Business Group LLC,477,477,Ibuprofen,Rosy Cluatt
+478,O,Baxter Healthcare Corporation,478,478,ADENOSINE,Wash Hobell
+479,O,Kremers Urban Pharmaceuticals Inc.,479,479,Methylphenidate Hydrochloride,Guntar de Voiels
+480,O,"Geiss, Destin and Dunn, Inc",480,480,Magnesium Sulfate,Carlye Raithmill
+481,A,Rebel Distributors Corp,481,481,Diphenhydramine,Ernst Trusler
+482,A,Actavis Pharma Manufacturing Pvt. Ltd.,482,482,Glyburide (micronized) and Metformin Hydrochloride,Quentin Piel
+483,AB,Barr Laboratories Inc.,483,483,"Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate, and Amphetamine Sulfate",Tyrone Pfeuffer
+484,O,Ventura International Ltd.,484,484,"Avobenzone, Ensulizole, Octinoxate, and Oxybenzone",Fiann Keymer
+485,O,Ionx Holdings d/b/a HelloLife Inc.,485,485,"Acontium Napellus, Agaricus Muscarius, Baryta Muriatica, Calendula Officinalis, Carbo Vegetabilis, Carduus Marianus, Chamomilla, Dulcamara, Glonoinum, Hamamelis Virginiana, Lycopersicum Esculentum, Magnesia Phosphorica, Phosphorus, Plumbum Metallicum, Rhus Toxicondendron, Secale Cornutum",Rainer Ansty
+486,O,Henry Schein Inc.,486,486,Articaine Hydrochloride and Epinephrine Bitartrate,Mahalia Gabbitas
+487,O,Prasco Laboratories,487,487,Olanzapine,Brandi Teck
+488,O,"C.B. Fleet Company, Inc.",488,488,Simethicone,Ludovico Clampe
+489,O,Bryant Ranch Prepack,489,489,Fentanyl,Justina Nottingham
+490,B,The Mentholatum Company,490,490,"Naphazoline hydrochloride, Polysorbate 80",Gerald Wartnaby
+491,O,"Yein Trading & Global Co., Ltd",491,491,PHELLINUS LINTEUS MYCELIUM,Mirelle Manjot
+492,O,West-Ward Pharmaceutical Corp,492,492,Prednisone,Sandie Godfrey
+493,O,Sandoz Inc.,493,493,Temozolomide,Tamara Theuff
+494,O,Procter & Gamble Manufacturing Co.,494,494,Pyrithione Zinc,Taryn Dowson
+495,O,Uriel Pharmacy Inc.,495,495,Secale Argentum Special Order,Rustin Romeuf
+496,O,McKesson Packaging Services a business unit of McKesson Corporation,496,496,Folic Acid,Ivonne Klulicek
+497,O,sanofi-aventis U.S. LLC,497,497,desipramine hydrochloride,Evelyn Gai
+498,O,State of Florida DOH Central Pharmacy,498,498,ketoconazole,Rich Antonijevic
+499,O,Tongzhou Ruihong Medical Products Factory,499,499,ISOPROPYL ALCOHOL,Carlotta Slobom
+500,O,"Prostemics Co., Ltd.",500,500,Allantoin,Davidde Biever
+501,A,REMEDYREPACK INC.,501,501,Amiodarone Hydrochloride,Erna Garrard
+502,A,Meijer Distribution Inc,502,502,Naproxen Sodium,Melissa Betjes
+503,AB,Carilion Materials Management,503,503,Hydrochlorothiazide,Micky Betun
+504,O,CSL Behring AG,504,504,ALBUMIN (HUMAN),Maryjane Carling
+505,O,"Elizabeth Arden, Inc",505,505,Titanium Dioxide,Farr Follen
+506,O,Medtech Products Inc.,506,506,Simethicone,Quinlan Stolworthy
+507,O,AvPAK,507,507,Estradiol,Bonnee Kelsey
+508,O,"Johnson & Johnson Consumer Products Company, Division of Johnson & Johnson Consumer Companies, Inc.",508,508,Salicylic Acid,Silas Chapelhow
+509,O,"Dr. Fresh, Inc.",509,509,ETHYL ALCOHOL,Herve McFee
+510,B,"BioComp Pharma, Inc.",510,510,BENZOYL PEROXIDE,Nestor Harlow
+511,O,"Amneal Pharmaceuticals of New York, LLC",511,511,Tramadol Hydrochloride and Acetaminophen,Allayne Daveridge
+512,O,KJI Industrial Co Ltd,512,512,TOPICAL STARCH,Lonna Buttrick
+513,O,"Preferred Pharmaceuticals, Inc.",513,513,Naphazoline Hydrochloride,Valera Saill
+514,O,"Nelco Laboratories, Inc.",514,514,White Ash,Remington Spinke
+515,O,"Laclede, Inc.",515,515,Acidulated Phosphate Fluoride,Giraldo MacKilroe
+516,O,Family Dollar,516,516,FERRIC OXIDE RED,Elisabet Klossmann
+517,O,Rebel Distributors Corp,517,517,Bacitracin Zinc,Keslie de Wilde
+518,O,"Eon Labs, Inc.",518,518,phentermine hydrochloride,Kaela Cunniffe
+519,O,"Deseret Biologicals, Inc.",519,519,Caffeic Acid,Cassie O'Dowgaine
+520,O,"Safetec of America, Inc.",520,520,menthol,Michel Sexstone
+521,A,Dickey Consumer Products DBA DMD,521,521,Pseudoephedrine,Jaquenette Stoute
+522,A,Mylan Pharmaceuticals Inc.,522,522,zolmitriptan,Allina Greenhalf
+523,AB,"Hevert Pharmaceuticals, Inc.",523,523,"Milk Thistle, Chelidonium Majus Root, and Taraxacum Palustre Root",Mallory Shrubsall
+524,O,Accord Healthcare Inc.,524,524,clonazepam,Marlane Coniam
+525,O,"Church & Dwight Co., Inc.",525,525,Sodium Fluoride,Zulema Featherby
+526,O,Pharmacia and Upjohn Company,526,526,IBUTILIDE FUMARATE,Stan Canada
+527,O,"Quartz Specialty Pharmaceuticals, LLC",527,527,pyrantel pamoate,Ham Cafferky
+528,O,Boots Retail USA Inc,528,528,Octinoxate,Jesselyn Brundrett
+529,O,WOCKHARDT USA LLC,529,529,FELODIPINE,Justine Nangle
+530,B,HYVEE INC.,530,530,SODIUM FLUORIDE,Adara Hardy
+531,O,Heritage Pharmaceuticals Inc.,531,531,Prochlorperazine Edisylate,Quint Cragg
+532,O,Cardinal Health,532,532,Guaifenesin/phenylephrine,Dulcine Rosin
+533,O,Golden State Medical Supply,533,533,FOSINOPRIL SODIUM,Derward Olenov
+534,O,Uriel Pharmacy Inc.,534,534,Formica Oxalis,Deborah Pottinger
+535,O,Rebel Distributors Corp.,535,535,ARIPIPRAZOLE,Carter Rupke
+536,O,"Vectair Systems, Inc.",536,536,Benzalkonium Chloride,Herve Callander
+537,O,Procter & Gamble Manufacturing Company,537,537,Aluminum Zirconium Tetrachlorohydrex Gly,Grant Phettiplace
+538,O,"Accord Healthcare, Inc.",538,538,Fluorouracil,Thomasina Dana
+539,O,Mylan Pharmaceuticals Inc.,539,539,risperidone,Olivie Mushrow
+540,O,Space Brands Limited,540,540,Titanium Dioxide and Octinoxate,Carce Blaske
+541,A,McKesson Packaging Services Business Unit of McKesson Corporation,541,541,Clonazepam,Adrianne Dolbey
+542,A,"Newton Laboratories, Inc.",542,542,"Influenza A Virus, Influenza B Virus, Antimon. tart., Arsenicum alb., Bryonia, Camphora, Chelidonium majus, Cinchona, Drosera, Eucalyptus, Hepar sulph. calc., Histaminum hydrochloricum, Ipecac., Kali bic., Kali carb., Kali iod., Lycopodium, Myrrha, Natrum sulphuricum, Nux vom., Phosphorus, Pulsatilla, Sanguinaria, Spongia , Stannum met., Tussilago farfara, Verbascum, Echinacea, Lappa, Rumex crisp.",Adria Giacomazzo
+543,AB,Cardinal Health,543,543,Acetaminophen and Codeine Phosphate,Vanna Mather
+544,O,Aidarex Pharmaceuticals LLC,544,544,Mirtazapine,Abigail Kohler
+545,O,Actavis Elizabeth LLC,545,545,Glipizide,Robb Reddel
+546,O,H E B,546,546,Simethicone,Denna Beddo
+547,O,Mylan Pharmaceuticals Inc.,547,547,Pentoxifylline,Wynny Tiller
+548,O,Chemco Corporation,548,548,"Menthol, Methyl Salicylate",Alta Corradengo
+549,O,Chain Drug Marketing Association,549,549,Fexofenadine HCl,Diahann Pretsell
+550,B,Dynamic Pharmaceuticals Inc.,550,550,"Zinc Gluconate, Zinc Oxide, and Sambucus Nigra Flower",Louis Wyburn
+551,O,REMEDYREPACK INC.,551,551,Enalapril Maleate,Virgie Hise
+552,O,"Nelco Laboratories, Inc.",552,552,Trichophyton mentagrophytes,Michale Salle
+553,O,KAS Direct LLC dba BabyGanics,553,553,OATMEAL,Brook Lottrington
+554,O,A-S Medication Solutions LLC,554,554,benzphetamine hydrochloride,Bess Keywood
+555,O,Sun Pharmaceutical Industries Limited,555,555,Carbidopa and Levodopa,Reynolds Beevens
+556,O,"Aaron Industries, Inc.",556,556,Isopropyl Alcohol,Eduardo Trippett
+557,O,Legacy Pharmaceutical Packaging,557,557,Escitalopram,Margette Howsden
+558,O,Perrigo New York Inc,558,558,Nicotine Polacrilex,Willette McClarence
+559,O,"Bath & Body Works, Inc.",559,559,"Avobenzone, Octinoxate, Oxybenzone",Jimmy Tommasuzzi
+560,O,Parke-Davis Div of Pfizer Inc,560,560,gabapentin,Durand Wickling
+561,A,"MedVantx, Inc.",561,561,Fluoxetine,Tammie Kovacs
+562,A,Insight Pharmaceuticals,562,562,Tolnaftate,Mirabella Detoile
+563,AB,Topco Associates LLC,563,563,"Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate, Phenylephrine Hydrochloride",Daffy Lathwell
+564,O,"Elizabeth Arden, Inc",564,564,Titanium Dioxide,Klara Haddock
+565,O,AstraZeneca Pharmaceuticals LP,565,565,Zolmitriptan,Guillermo Bleby
+566,O,Family Dollar Services Inc.,566,566,ALCOHOL,Neil Narey
+567,O,Access Business Group LLC,567,567,"OXYBENZONE, OCTINOXATE, ZINC OXIDE",Angelique Betser
+568,O,Merck Sharp & Dohme Corp.,568,568,mometasone furoate and formoterol fumarate dihydrate,Cathie Garr
+569,O,Apotex Corp.,569,569,Olanzapine,Paulie Joyes
+570,B,"SKINFOOD CO., LTD.",570,570,TITANIUM DIOXIDE,Moe Bleazard
+571,O,"Nelco Laboratories, Inc.",571,571,Box Elder,Baron Schoenfisch
+572,O,Lake Erie Medical DBA Quality Care Products LLC,572,572,Metformin Hydrochloride,Florrie Ogilvy
+573,O,Cardinal Health,573,573,BUMETANIDE,Beret Hirtz
+574,O,Orchid Healthcare (a division of Orchid Chemicals & Pharmaceuticals Ltd.),574,574,Venlafaxine Hydrochloride,Balduin Belvin
+575,O,"Blu Pharmaceuticals, LLC",575,575,Simvastatin,Mackenzie Seward
+576,O,"Montgomery County Chapter Nysarc, Inc dba Liberty Enterprises",576,576,HAND SANITIZER,Shelley Desbrow
+577,O,REMEDYREPACK INC.,577,577,Kaletra,Adah Cottage
+578,O,Cardinal Health,578,578,clozapine,Jodi Biaggetti
+579,O,Virtus Pharmaceuticals,579,579,Levomefolate Calcium and Algal Powder,Lyndsey Stallebrass
+580,O,"Elizabeth Arden, Inc",580,580,Octinoxate,Philbert Bouskill
+581,A,Teva Pharmaceuticals USA Inc,581,581,Prazosin Hydrochloride,Guillema Folbigg
+582,A,"ALK-Abello, Inc.",582,582,CHAETOMIUM GLOBOSUM,Deane Branson
+583,AB,Proficient Rx LP,583,583,Prednisone,Alejoa Troillet
+584,O,"Physicians Total Care, Inc.",584,584,Triamterene and Hydrochlorothiazide,Renie McGregor
+585,O,AMOREPACIFIC,585,585,"OCTINOXATE, TITANIUM DIOXIDE, and ZINC OXIDE",Linoel Ruben
+586,O,Cardinal Health,586,586,Loperamide HCl,Kit Galtone
+587,O,Meijer Distribution Inc,587,587,"Dextromethorphan Hydrobromide, Guaifenesin, Phenylephrine Hydrochloride",Natasha Stucke
+588,O,B. Braun Medical Inc.,588,588,"Sodium Chloride, Sodium Lactate, Potassium Chloride, and Calcium Chloride",Talia Maydwell
+589,O,American Welding & Gas,589,589,Oxygen,Dan Ungerer
+590,B,Cardinal Health,590,590,"Piperonyl Butoxide, Pyrethrum Extract",Clotilda Elldred
+591,O,Air Liquide Healthcare America Corporation,591,591,NITROGEN,Dicky Bunten
+592,O,Contract Pharmacy Services-PA,592,592,Acetaminophen,Jewelle Gelletly
+593,O,"Golden State Medical Supply, Inc.",593,593,DULOXETINE HYDROCHLORIDE,Jesselyn Belone
+594,O,Natura Bisse International SA,594,594,"Ensulizole, Octinoxate, Titanium Dioxide, Zinc Oxide",Pamelina Crackett
+595,O,Keltman Pharmaceuticals Inc.,595,595,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,Shalom Cowing
+596,O,KAISER FOUNDATION HOSPITALS,596,596,Gemfibrozil,Kassi Fairbank
+597,O,"AvKARE, Inc.",597,597,Pramipexole Dihydrochloride,Dell Tockell
+598,O,"Acella Pharmaceuticals, LLC",598,598,Salsalate,Paxon Trowsdale
+599,O,Mylan Pharmaceuticals Inc.,599,599,metolazone,Jesse Bebis
+600,O,Mylan Pharmaceuticals Inc.,600,600,Felodipine,Melisenda Bourne
+601,A,STAT Rx USA LLC,601,601,ZOLPIDEM TARTRATE,Valencia Crannis
+602,A,B. Braun Medical Inc.,602,602,Dextrose and Sodium Chloride,Greggory Tite
+603,AB,Shaklee Corporation,603,603,"OCTISALATE, AVOBENZONE, and OCTOCRYLENE",Chickie Manton
+604,O,"Ascend Laboratories, LLC",604,604,Cephalexin,Patton Zollner
+605,O,"Physicians Total Care, Inc.",605,605,fluorouracil,Gertrude Beig
+606,O,Boots Retail USA Inc,606,606,"Avobenzone, Octinoxate, Octocrylene",Renaldo Loxley
+607,O,"Areva Pharmaceuticals,Inc.",607,607,Epirubicin Hydrochloride,Rayshell Botham
+608,O,"Innocutis Holdings, LLC",608,608,Acyclovir,Salli Oppery
+609,O,Major Pharmaceuticals,609,609,Gabapentin,Simone Sikora
+610,B,"NATURE REPUBLIC CO., LTD.",610,610,"OCTINOXATE, OCTISALATE, TITANIUM DIOXIDE",Scarlett Weinmann
+611,O,Walgreen Company,611,611,"SODIUM BICARBONATE, SODIUM CHLORIDE",Trista Wey
+612,O,REMEDYREPACK INC.,612,612,Carbidopa and levodopa,Ax Cunniff
+613,O,"Hahnemann Laboratories, Inc. dba Alpine Pharmaceuticals",613,613,PERIDOT,Bryon McVitie
+614,O,Lake Erie Medical DBA Quality Care Products LLC,614,614,Diazepam,Kelwin Charrisson
+615,O,McKesson,615,615,Naproxen sodium,Noah Bernaldez
+616,O,Pharmacia and Upjohn Company,616,616,METHYLPREDNISOLONE ACETATE,Jan Tenaunt
+617,O,"Professional Disposables International, Inc.",617,617,Alcohol,Dell Crolla
+618,O,"Mallinckrodt, Inc.",618,618,nortriptyline hydrochloride,Ravi De Coursey
+619,O,"Meridian Medical Technologies, Inc.",619,619,Hydroxocobalamin,Myrta McRobb
+620,O,Bryant Ranch Prepack,620,620,diltiazem hydrochloride,Florian Tierny
+621,A,Cardinal Health,621,621,Diphenhydramine Hydrochloride,Joana Rowth
+622,A,"Antigen Laboratories, Inc.",622,622,Cladosporium herbarum,Shaw Buxy
+623,AB,"Carlsbad Technology, Inc",623,623,Clonidine Hydrochloride,Adara McGreay
+624,O,"Dispensing Solutions, Inc.",624,624,valsartan and hydrochlorothiazide,Sigfried Medlin
+625,O,Reese Pharmaceutical Co.,625,625,guaifenesin,Emelita Parsall
+626,O,Receptopharm Inc.,626,626,NAJA NAJA VENOM,Dorothea O'Shields
+627,O,Universal holdings I LLC dba Smith Brothers Company,627,627,MENTHOL,Burg Kittman
+628,O,"Ecometics, Inc",628,628,Meradimate and Octisalate and Octocrylene and Titanium Dioxide and Zinc Oxide,Stefa Caldaro
+629,O,Jubilant HollisterStier LLC,629,629,white faced hornet hymenoptera venom multidose,Vale Puckinghorne
+630,B,BCM Cosmetique SAS,630,630,OCTINOXATE,Jerrold Peploe
+631,O,L'Oreal USA Products Inc,631,631,Octinoxate,Rene Whitwham
+632,O,Select Brand Distributors,632,632,Dextromethorphan Hydrobromide / Guaifenesin,Marin Vautin
+633,O,"Ningbo Heyi Daily Chemical Products Co., Ltd.",633,633,ALCOHOL,Cloris Wapplington
+634,O,Uriel Pharmacy Inc.,634,634,Avena Valeriana,Bethina Pearlman
+635,O,"Nelco Laboratories, Inc.",635,635,Burrobrush,Evanne Paxforde
+636,O,Ventura Corporation LTD.,636,636,Octinoxate and Oxybenzone,Emogene Antley
+637,O,"Papermates, Inc. dba Noteworthy",637,637,ETHYL ALCOHOL,Aretha Tissier
+638,O,Beiersdorf,638,638,Octinoxate and avobenzone,Valera Saller
+639,O,Cardinal Health,639,639,VALACYCLOVIR HYDROCHLORIDE,Claudian Begley
+640,O,RedPharm Drug Inc.,640,640,hydrocodone bitartrate and acetaminophen,Thaddeus Rowan
+641,A,"Aptalis Pharma US, Inc.",641,641,nitroglycerin,Wallis Drohun
+642,A,NARS Cosmetics,642,642,OCTINOXATE and TITANIUM DIOXIDE,Kare Winser
+643,AB,AbbVie Inc.,643,643,Cyclosporine,Diannne Pearde
+644,O,"PD-Rx Pharmaceuticals, Inc.",644,644,clarithromycin,Terence McKaile
+645,O,Apotheca Company,645,645,"Rauwolfia serpentina,",Jereme Tembey
+646,O,"PD-Rx Pharmaceuticals, Inc.",646,646,Glyburide,Grissel Pavlasek
+647,O,REMEDYREPACK INC.,647,647,Cyclobenzaprine Hydrochloride,Mattie Jonuzi
+648,O,Actiogen Corp,648,648,Acne Treatment,Artus Canadine
+649,O,REMEDYREPACK INC.,649,649,lisinopril,Nealon Gahagan
+650,B,"Safetec of America, Inc.",650,650,"alcohol, benzocaine",Andee Cromblehome
+651,O,Pharmaceutica North America,651,651,"METHYL SALICYLATE, MENTHOL, CAPSAICIN",Yanaton Atwel
+652,O,Noxell,652,652,Ensulizole,Danica Doddrell
+653,O,Clinical Solutions Wholesale,653,653,AZITHROMYCIN,Aliza Brockie
+654,O,"Ingenus Pharmaceuticals, LLC",654,654,Metformin hydrochloride,Rene De Cruce
+655,O,REMEDYREPACK INC.,655,655,Ofloxacin,Melonie Klais
+656,O,"Navarro Discount Pharmacies,LLC",656,656,ALCOHOL,Stearne Minchinton
+657,O,"Project, Inc.",657,657,ETHYL ALCOHOL,Alayne Johansson
+658,O,"AMI Cosmetic Co.,Ltd.",658,658,Zinc oxide,Boyce Hudspith
+659,O,LLORENS PHARMACEUTICALS INTERNATIONAL DIVISION,659,659,"Dextromethorphan, Guaifenesin",Ranna Ivanonko
+660,O,COMERCIALIZADORA JIQUILPAN S.A. DE C.V.,660,660,ALCOHOL,Dru Primrose
+661,A,Tri-Coastal Design Company Inc.,661,661,TRICLOSAN,Demetri Gaythwaite
+662,A,Apace Packaging LLC,662,662,Potassium Chloride,Abbie Feaveryear
+663,AB,Mylan Pharmaceuticals Inc.,663,663,amitriptyline hydrochloride,Sylvia Southwell
+664,O,Uriel Pharmacy Inc.,664,664,Bambusa Stannum,Brooke MacDavitt
+665,O,A-S Medication Solutions LLC,665,665,hydroxyzine hydrochloride,Licha Tie
+666,O,Neutrogena Corporation,666,666,Octinoxate and Oxybenzone,Artie Assiratti
+667,O,CVS PHARMACY,667,667,TRICLOSAN,Obadias Ghiron
+668,O,"MSD Consumer Care, Inc.",668,668,Dimethicone,Gerome Rames
+669,O,Merz Aesthetics. Inc,669,669,incobotulinumtoxinA,Gaye Mitchley
+670,B,Rebel Distributors Corp,670,670,Propranolol Hydrochloride,Estele Webber
+671,O,"AAA Pharmaceutical, Inc.",671,671,"ACETAMINOPHEN, CHLORPHENIRAMINE MALEATE, DEXTROMETHORPHAN HYDROBROMIDE, and PHENYLEPHRINE HYDROCHLORIDE",Flory Kondrachenko
+672,O,Clinical Solutions Wholesale,672,672,Omeprazole,Kirstyn Lortzing
+673,O,"Actavis Pharma, Inc.",673,673,risedronate sodium,Steward Hocking
+674,O,"Elizabeth Arden, Inc",674,674,OCTINOXATE and TITANIUM DIOXIDE,Jeremy Paolone
+675,O,Apotex Corp,675,675,Alprazolam,Pamelina Spall
+676,O,"Watson Laboratories, Inc.",676,676,Estropipate,Lexy Woltman
+677,O,Cardinal Health,677,677,Zolpidem Tartrate,Chryste Maund
+678,O,Teva Pharmaceuticals USA Inc,678,678,Sulfamethoxazole and Trimethoprim,Anne-marie Danby
+679,O,"NSE Products, Inc.",679,679,"Octinoxate, Octisalate, Oxybenzone, and Titanium Dioxide",Talia Todarello
+680,O,"MEIJER, INC.",680,680,Bisacodyl,Welbie Byne
+681,A,REMEDYREPACK INC.,681,681,OXYBUTYNIN CHLORIDE,Robbyn Dober
+682,A,"Kareway Product, Inc.",682,682,Menthol,Zeke Atkinson
+683,AB,STAT RX USA LLC,683,683,LIDOCAINE,Bernie Maria
+684,O,"Northwind Pharmaceuticals, LLC",684,684,CEFDINIR,Sue Proom
+685,O,Apotheca Company,685,685,"Causticum, Chininum sulphuricum, Cinchona officinalis, Pulsatilla, Thiosinaminum,",Ketty Stotherfield
+686,O,"Golden State Medical Supply, Inc.",686,686,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,Gale Ormiston
+687,O,"PD-Rx Pharmaceuticals, Inc.",687,687,allopurinol,Connor Ainley
+688,O,DIRECT RX,688,688,SILVER SULFADAZINE,Moore Smedmore
+689,O,CVS Pharmacy,689,689,"SODIUM BICARBONATE, SODIUM CHLORIDE",Elisa Carruthers
+690,B,"MedVantx, Inc.",690,690,Simvastatin,Niccolo Lucey
+691,O,SHISEIDO AMERICAS CORPORATION,691,691,Titanium dioxide,Tobye Summerton
+692,O,STAT RX USA LLC,692,692,AMLODIPINE BESYLATE,Tandie Bowmaker
+693,O,"Synergy Formulas, Inc.",693,693,"Allium Cepa, Ambrosia Artemisiaefolia, Euphrasia Officinalis, Sabadilla, Sheep Sorrel, Yellow Dock, Kentucky Bluegrass, Orchard, Redtop, Timothy",Olga O'Cahey
+694,O,Shanghai Weierya Daily Chemicals Factory,694,694,ethyl alcohol,Jacqueline Booton
+695,O,"SJ Creations, Inc.",695,695,Triclosan,Millicent Sarll
+696,O,"ALK-Abello, Inc.",696,696,CLADOSPORIUM CLADOSPORIOIDES,Vivian Arrow
+697,O,Bare Escentuals Beauty Inc.,697,697,Zinc Oxide,Kristel Dike
+698,O,Golden State Medical Supply,698,698,FOSINOPRIL SODIUM,Alameda Crowcum
+699,O,"Creation's Garden Natural Products, Inc",699,699,alcohol,Chrissy Petruskevich
+700,O,REMEDYREPACK INC.,700,700,Acetaminophen,Irwin Meriel
+701,A,Wal-Mart Stores Inc,701,701,"Acetaminophen, Dextromethorphan HBr, Doxylamine succinate, Phenylephrine HCl",Catriona Willeman
+702,A,REMEDYREPACK INC.,702,702,sildenafil citrate,Georgina Galbreth
+703,AB,Legacy Pharmaceutical Packaging,703,703,Phentermine Hydrochloride,Oran Shouler
+704,O,Reckitt Benckiser LLC,704,704,Salicylic Acid,Sabina Fisher
+705,O,Amerisource Bergen,705,705,"Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride",Henriette Mytton
+706,O,JAFRA COSMETICS INTERNATIONAL,706,706,HOMOSALATE OCTINOXATE OCTISALATE OXYBENZONE TITANIUM DIOXIDE OCTOCRYLENE,Grissel Jeannot
+707,O,Apotheca Company,707,707,"Sarsaparilla, Uva-ursi, Arsenicum album, Cantharis, Pareira brava, Pulsatilla, Sepia, Terebinthina, Populus tremuloides",Alyse Jakab
+708,O,"Nelco Laboratories, Inc.",708,708,Greasewood,Luigi Zebedee
+709,O,BCM Cosmetique SAS,709,709,Octinoxate and Titanium Dioxide,Ewell Rucklidge
+710,B,"Dolgencorp, Inc. (DOLLAR GENERAL & REXALL)",710,710,LOPERAMIDE HYDROCHLORIDE,Hildagarde Hugli
+711,O,Rite Aid,711,711,Bismuth Subsalicylate,Trula Probin
+712,O,"Mycone Dental Supply Co., Inc DBA Keystone Industries and Deepak Products Inc.",712,712,Sodium Fluoride,Mandie Strank
+713,O,Cangene bioPharma Inc.,713,713,rho (d) immune globulin,Irina Crawford
+714,O,"SJ Creations, Inc.",714,714,Triclosan,Jeffie Kittiman
+715,O,Qualitest Pharmaceuticals,715,715,phenobarbital,Ellwood Kulicke
+716,O,"MCR American Pharmaceuticals, Inc.",716,716,"Pseudoephedrine Hydrochloride, Brompheniramine Maleate, and Dextromethorphan Hydrobromide",Basia Pidgin
+717,O,Hyland's,717,717,"BELLADONNA LEAF, CALCIUM CARBONATE, CHAMOMILE, LYCOPODIUM CLAVATUM SPORE, ANEMONE PATENS, and SULFUR",Freeman Burnsall
+718,O,"Azur Pharma, Inc.",718,718,Natelle One,Kylila Baglow
+719,O,"PD-Rx Pharmaceuticals, Inc.",719,719,prochlorperazine maleate,Melicent Staries
+720,O,"Nelco Laboratories, Inc.",720,720,White Pine,Jason Ohms
+721,A,REMEDYREPACK INC.,721,721,warfarin sodium,Ada Scothorn
+722,A,Rochester Pharmaceuticals,722,722,Salicylic Acid,Kennan Dallin
+723,AB,GlaxoSmithKline LLC,723,723,sumatriptan succinate,Burk Duinbleton
+724,O,"Anchen Pharmaceuticals, Inc.",724,724,levetiracetam,Helli Langelaan
+725,O,Teva Pharmaceuticals USA Inc,725,725,Lansoprazole Amoxicillin Clarithromycin,Deina Dungee
+726,O,Sun Pharma Global Inc.,726,726,Alendronate Sodium,Blane de Clercq
+727,O,Almatica Pharma Inc.,727,727,Nitrofurantoin Monohydrate/Macrocrystalline,Oberon Gownge
+728,O,"Physicians Total Care, Inc.",728,728,Methylphenidate Hydrochloride,Myrta Derby
+729,O,Uriel Pharmacy Inc.,729,729,Apis Bryonia,Aviva McCaughen
+730,B,Pfizer Laboratories Div Pfizer Inc.,730,730,Methotrexate,Arda Menego
+731,O,"Roxane Laboratories, Inc.",731,731,Triazolam,Lee McCafferty
+732,O,"NINGBO MEIDUO GENERAL PRODUCTS CO., LTD",732,732,ALCOHOL,Sergeant Smitherman
+733,O,Procter & Gamble Manufacturing Company,733,733,"Homosalate, Octisalate, and Octocrylene",Ethelin Thormann
+734,O,Accord Healthcare Inc.,734,734,ALLOPURINOL,Kai Bodimeade
+735,O,Walgreens,735,735,nicotine polacrilex,Christean Brucker
+736,O,Ionx Holdings d/b/a HelloLife Inc.,736,736,"Aconitum nap, Actaea, Aesculus hipp, Cimicifuga, Gnaphalium poly, Lilium, Lycopersicum, Oxalicum ac, Arnica, Bellis, Bryonia, Salicylicum ac, Colocynthis, Iris vers, Mag phos, Ruta, Stellaria med, Hypericum",Millard Searjeant
+737,O,GlaxoSmithKline LLC,737,737,rosiglitazone maleate and glimepiride,Willa Massimi
+738,O,"Melaleuca, Inc.",738,738,ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY,Averil Polini
+739,O,"Prime Enterprises, Inc.",739,739,"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone",Gerty Thon
+740,O,Qualitest Pharmaceuticals,740,740,Oxycodone hydrochloride and Acetaminophen,Raul Kolin
+741,A,Access Business Group LLC,741,741,"HOMOSALATE, OXYBENZONE, OCTISALATE, AVOBENZONE, OCTOCRYLENE",Hagen Wymer
+742,A,"Mutual Pharmaceutical Company, Inc.",742,742,spironolactone,Elvera Stanley
+743,AB,"Nelco Laboratories, Inc.",743,743,Cockroach American,Venus Couche
+744,O,"Mallinckrodt, Inc.",744,744,temazepam,Simeon O'Reilly
+745,O,"Nelco Laboratories, Inc.",745,745,Red Delicious Apple,Bibbie Larsen
+746,O,Kimberly-Clark Corporation,746,746,Triclosan,Fanya Braidwood
+747,O,BrandStorm HBC,747,747,PULSATILLA VULGARIS,Saree Stive
+748,O,Aidarex Pharmaceuticals LLC,748,748,Loperamide Hydrochloride,Smitty Skally
+749,O,"Aphena Pharma Solutions - Tennessee, LLC",749,749,chlorthalidone,Leonie Killcross
+750,B,CVS Pharmacy,750,750,"AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE, OXYBENZONE",Hyacinthia MacAndreis
+751,O,State of Florida DOH Central Pharmacy,751,751,verapamil hydrochloride,Tisha Watkiss
+752,O,"Kara Vita, Inc.",752,752,Salicylic Acid,Alister Dewberry
+753,O,"Lupin Pharmaceuticals, Inc.",753,753,NIACIN,Andrew Matthesius
+754,O,Aidarex Pharmaceuticals LLC,754,754,Lisinopril,Christie Tomala
+755,O,Biogen Idec Inc.,755,755,peginterferon beta-1a,Karel Garrat
+756,O,Shopko,756,756,"EUCALYPTOL, MENTHOL, METHYL SALICYLATE, THYMOL",Oliver Jenken
+757,O,McKesson,757,757,"Dextromethorphan HBr, Guaifenesin",Jakob Beale
+758,O,AvPAK,758,758,DIPYRIDAMOLE,Evangelin Hatje
+759,O,Mylan Institutional Inc.,759,759,Lovastatin,Denice Roaf
+760,O,Baxter Healthcare Corporation,760,760,alpha-1 proteinase inhibitor human,Nolana Di Pietro
+761,A,"Nelco Laboratories, Inc.",761,761,Lombardy Poplar,Reynolds Comins
+762,A,"PD-Rx Pharmaceuticals, Inc.",762,762,Nortriptyline Hydrochloride,Georgi Sandon
+763,AB,"Pooch Welding Supply Company, Inc.",763,763,Oxygen,Nicolea Laffin
+764,O,"Med-Health Pharma, LLC",764,764,Lisinopril,Valentino Tooley
+765,O,"Bayshore Pharmaceuticals, LLC",765,765,benztropine mesylate,Madison Heckle
+766,O,Cardinal Health,766,766,Cefazolin,Tyson Uden
+767,O,"Accra-Pac, Inc.",767,767,Octocrylene and Oxybenzone and Avobenzone,Gunilla Corstan
+768,O,H E B,768,768,Diphenhydramine HCl,Julita Mingardo
+769,O,Rite Aid,769,769,"Acetaminophen, Chlorpehniramine HCl, Dextromethorphan HBr, Phenylephrine HCl",Sabine Frankland
+770,B,Wal-Mart Stores Inc,770,770,Ibuprofen,Joeann Ormes
+771,O,"Peaceful Mountain, Inc.",771,771,"Bryonia, Ruta Graveolens, Bellis Perennis, Argentum Metallicum",Lyman Stucke
+772,O,REMEDYREPACK INC.,772,772,Hydrocodone Bitartrate And Acetaminophen,Christoffer Boorn
+773,O,Supervalu Inc,773,773,Omeprazole,Cammy Habble
+774,O,"Nelco Laboratories, Inc.",774,774,House Dust,Ruddie Themann
+775,O,GlaxoSmithKline LLC,775,775,ticarcillin disodium and clavulanate potassium,Darb Chyuerton
+776,O,Sam's West Inc,776,776,Lansoprazole,Sherye Tumini
+777,O,Jubilant HollisterStier LLC,777,777,"Insects (whole body), Fire Ant Mix",Sherlock Bremen
+778,O,Amerisourcebergen Drug Corporation (Good Neighbour Pharmacy),778,778,DOCUSATE SODIUM,Peirce Hebson
+779,O,Kimberly-Clark Corporation,779,779,Benzalkonium Chloride,Ab Hargreves
+780,O,"Boca Pharmacal, LLC",780,780,Stavudine,Gard Cleaves
+781,A,A-S Medication Solutions LLC,781,781,Promethazinehydrochloride and phenylephrine hydrochloride,Fanny Drysdall
+782,A,"Roxane Laboratories, Inc",782,782,Risperidone,Marjorie Olman
+783,AB,BCM Cosmetique SAS,783,783,Octinoxate,Romain Huygens
+784,O,"Blenheim Pharmacal, Inc.",784,784,METHADONE HYDROCHLORIDE,Star Esson
+785,O,Proficient Rx LP,785,785,Cyclobenzaprine Hydrochloride,Rosa Curnokk
+786,O,"AMI Cosmetic Co.,Ltd.",786,786,Zinc oxide,Kristien Fiske
+787,O,Rite Aid,787,787,Miconazole Nitrate,Burton Jordine
+788,O,"Avon Products, Inc",788,788,Aluminum Chlorohydrate,Zolly Coiley
+789,O,CVS Pharmacy,789,789,Simethicone,Selie Mogra
+790,B,McKesson Packaging Services a business unit of McKesson Corporation,790,790,Rivastigmine Tartrate,Sheree Keaysell
+791,O,Mylan Pharmaceuticals Inc.,791,791,"carbidopa, levodopa and entacapone",Northrup Poolton
+792,O,Blue Cross Laboratories,792,792,Aluminum Zirconium,Leontine Carnow
+793,O,"Kareway Product, Inc.",793,793,Menthol,Penelopa Du Pre
+794,O,"ALK-Abello, Inc.",794,794,CANDIDA ALBICANS,Merrielle Goodee
+795,O,"ALK-Abello, Inc.",795,795,Wheat Pollen,Gabriel Habin
+796,O,Apotheca Company,796,796,"Symphytum officinale, Bellis perennis, Hypericum perforatum,, Magnesia phosphorica, Ruta graveolens, Arnica montana,",Aldus Elnaugh
+797,O,Mylan Pharmaceuticals Inc.,797,797,amitriptyline hydrochloride,Quentin Bridle
+798,O,"Gavis Pharmaceuticals, LLC",798,798,Orphenadrine Citrate,Fredek Wishart
+799,O,American Sales Company,799,799,Nicotine polacrilex,Florentia Yakunikov
+800,O,"Tom's of Maine, Inc.",800,800,Sodium Monofluorophosphate,Wilfrid Armistead
+801,A,Proficient Rx LP,801,801,Lisinopril and hydrochlorothiazide,Marja Yurin
+802,A,Unit Dose Services,802,802,Phentermine Hydrochloride,Sherrie Paffett
+803,AB,"GRIFOLS USA, LLC",803,803,Antihemophilic Factor/von Willebrand Factor Complex (Human),Emmalynn Andor
+804,O,DZA Brands LLC,804,804,"cocoa butter, phenylephrine hcl",Brit Corwin
+805,O,REMEDYREPACK INC.,805,805,gabapentin,Gussy Woolvett
+806,O,Wakefern Food Corporation,806,806,Bismuth subsalicylate,Ado O'Sheeryne
+807,O,"PD-Rx Pharmaceuticals, Inc.",807,807,Potassium Chloride,Gwenora Capron
+808,O,Barr Laboratories Inc.,808,808,levonorgestrel and ethinyl estradiol,Radcliffe Point
+809,O,"Nelco Laboratories, Inc.",809,809,Brazil Nut,Gabbi Christoffersen
+810,B,"Upsher-Smith Laboratories, Inc.",810,810,lamotrigine,Avie Iiannone
+811,O,"Golden State Medical Supply, Inc.",811,811,Sucralfate,Radcliffe Rourke
+812,O,Direct RX,812,812,NAPROXEN,Starlene Edger
+813,O,"American Regent, Inc.",813,813,Cupric Sulfate,Woodrow Oxbrow
+814,O,"Watson Laboratories, Inc.",814,814,Desmopressin Acetate,Hewett Maving
+815,O,"Deseret Biologicals, Inc.",815,815,"Conium Maculatum, Dulcamara, Echinacea, Aesculus Hippocastanum, Antimonium Tartaricum, Ascorbic Acid",Missie Balderston
+816,O,"Allergy Laboratories, Inc.",816,816,medicago sativa pollen,Willy Gandy
+817,O,"Preferred Pharmaceuticals, Inc.",817,817,Acyclovir,Cyndy Bernardinelli
+818,O,Karalex Pharma LLC,818,818,Fenofibrate,Ximenez Blacker
+819,O,West-ward Pharmaceutical Corp,819,819,Nicardipine Hydrochloride,Leesa Pfertner
+820,O,Sandoz Inc,820,820,L-Cysteine Hydrochloride,Pauly Morcomb
+821,A,Sandoz Inc,821,821,Clarithromycin,Rafa Cradey
+822,A,Major Pharmaceuticals,822,822,Potassium Chloride,Rockey Pllu
+823,AB,"NCS HealthCare of KY, Inc dba Vangard Labs",823,823,Verapamil Hydrochloride,Melesa Schuck
+824,O,West-ward Pharmaceutical Corp.,824,824,Morphine Sulfate,Chancey Waumsley
+825,O,"Golden State Medical Supply, Inc.",825,825,fluticasone propionate,Rozalin Rosenstein
+826,O,"Paddock Laboratories, Inc.",826,826,BENZPHETAMINE HYDROCHLORIDE,Kin Lamey
+827,O,American Sales Company,827,827,"Lanolin, Petrolatum",Hieronymus Smithen
+828,O,Medicis Pharmaceutical Corp.,828,828,LULICONAZOLE,Brigit Peggram
+829,O,KDS Lab,829,829,"LIDOCAINE HYDROCHLORIDE, ZINC CHLORIDE, ALCOHOL",Kory Neising
+830,B,Cantrell Drug Company,830,830,Oxytocin,Rodolph Dreher
+831,O,Guthy-Renker LLC,831,831,HYDROQUINONE,Vanya Forsyth
+832,O,Safeway,832,832,"Acetaminophen, Aspirin, Caffeine",Domini Bollam
+833,O,"THEFACESHOP CO., LTD",833,833,"TITANIUM DIOXIDE, OCTINOXATE",Alair Dunkerly
+834,O,American Sales Company,834,834,acetaminophen,Dorian Cosgriff
+835,O,Meijer,835,835,"Lanolin, Petrolatum",Genia Marchand
+836,O,Mylan Institutional Inc.,836,836,Pravastatin Sodium,Tait Frosdick
+837,O,"Cosmecca Korea Co., Ltd.",837,837,"Titanium Dioxide, Zinc Oxide",Kermie Iozefovich
+838,O,RITE AID CORPORATION,838,838,AVOBENZONE HOMOSALATE OCTISALATE OCTOCRYLENE OXYBENZONE,Seymour Cleobury
+839,O,"Teva Parenteral Medicines, Inc.",839,839,Ondansetron,Victoria Kropp
+840,O,"VitaMed, LLC",840,840,not applicable,Shoshana Simner
+841,A,GlaxoSmithKline Consumer Healthcare LP,841,841,stannous fluoride,Nevsa Sigars
+842,A,Mylan Pharmaceuticals Inc.,842,842,maprotiline hydrochloride,Silvio Wilford
+843,AB,Sagent Pharmaceuticals,843,843,ketorolac tromethamine,Kele Kissock
+844,O,"Deseret Biologicals, Inc.",844,844,"Cinnamomum, Gentiana Lutea, Syzygium Jambolanum, Argentum Nitricum, Colchicum Autumnale, Colostrum, Copper Gluconate,",Antoni Caurah
+845,O,Rebel Distributors Corp,845,845,Paroxetine Hydrochloride,Rossy Minard
+846,O,Procter & Gamble Manufacturing Company,846,846,Aluminum Zirconium Trichlorohydrex Gly,Constanta Burleton
+847,O,ProBLEN,847,847,"Avena Sativa, Carduus Marianus, Damiana, Galium Aparine, Hamamelis Virginiana, Hepar Bovine, Korean Ginseng, Nuphar Luteum,",Deborah Cassely
+848,O,Seroyal USA,848,848,Ruta graveolens,Vin Bantham
+849,O,King Import Warehouse,849,849,ALCOHOL,Chere Thorowgood
+850,B,Costco Wholesale Company,850,850,Doxylamine succinate,Eldin Rooper
+851,O,Pfizer Laboratories Div Pfizer Inc,851,851,penicillin G benzathine,Eleen Twiddy
+852,O,"Babor Cosmetics America, Corp.",852,852,Salicylic Acid,Meridel Klicher
+853,O,"GREENBRIER INTERNATIONAL, INC.",853,853,TETRAHYDROZOLINE HYDROCHLORIDE,Maxine Redfern
+854,O,ALILY (ZHANGZHOU) BATH PRODUCTS LTD.,854,854,Triclosan,Bill Camois
+855,O,AvPAK,855,855,risperidone,Hannis Tangye
+856,O,Lake Erie Medical DBA Quality Care Products LLC,856,856,Minocycline Hydrochloride,Rebecca Kopps
+857,O,Northwind Pharmaceuticals,857,857,Promethazine hydrochloride,Leonerd Vials
+858,O,Nephron Pharmaceuticals Corporation,858,858,Ipratropium Bromide,Vickie Grangier
+859,O,Northwind Pharmaceuticals,859,859,Cephalexin,Dag Clabburn
+860,O,REMEDYREPACK INC.,860,860,Metoprolol tartrate,Willamina Vondrach
+861,A,STAT Rx USA LLC,861,861,FAMOTIDINE,Sibylle Kennaird
+862,A,"Nelco Laboratories, Inc.",862,862,Trichoderma harzianam,Egon Glazzard
+863,AB,Amerisource Bergen,863,863,Ibuprofen,Nickey Pealing
+864,O,"Carlsbad Technology, Inc.",864,864,Metformin Hydrochloride,Mayne Shalloo
+865,O,"Preferred Pharmaceuticals, Inc.",865,865,Omeprazole,Saba Luard
+866,O,"Galena Biopharma, Inc.",866,866,fentanyl citrate,Anne-marie Fasset
+867,O,Contract Pharmacal Corporation,867,867,Psyllium Husks,Pattie McCague
+868,O,HYVEE INC,868,868,TRICLOSAN,Donnell Bremmell
+869,O,"MEIJER, INC.",869,869,Ibuprofen,Fanya Cottisford
+870,B,Qualitest Pharmaceuticals,870,870,morphine sulfate,Clarance Grog
+871,O,"H and P Industries, Inc. dba Triad Group",871,871,isopropyl alcohol,Sidoney Murkitt
+872,O,Rebel Distributors Corp,872,872,zaleplon,Chlo Kofax
+873,O,"W.W. Grainger, Inc.",873,873,Hand Sanitizer Wipes,Delphine Tomley
+874,O,BF ASCHER AND CO INC,874,874,PSEUDOEPHEDRINE HCL/GUAIFENESIN,Eolande Vuitton
+875,O,Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC,875,875,Divalproex Sodium,Bernard Dressel
+876,O,QUALITY CHOICE (Chain Drug Marketing Association),876,876,SIMETHICONE,Hillel Lacky
+877,O,Valeant Pharmaceuticals North America LLC,877,877,diazepam,Jdavie Benwell
+878,O,Cardinal Health,878,878,MEROPENEM,Millie McGilmartin
+879,O,"Biopelle, Inc.",879,879,"TITANIUM DIOXIDE, ZINC OXIDE",Jobina Fairebrother
+880,O,"Elishacoy Co., Inc.",880,880,"Titanium Dioxide, Zinc Oxide",Charles Hagger
+881,A,"Johnson & Johnson Consumer Products Company, Division of Johnson & Johnson Consumer Companies, Inc.",881,881,Diphenhydramine Hydrochloride and Zinc Acetate,Jolene Kittman
+882,A,"Nelco Laboratories, Inc.",882,882,Wheat Smut,Hugh Palek
+883,AB,Neutrogena Corporation,883,883,"Octinoxate, Octisalate, and Titanium Dioxide",Brynne Pelerin
+884,O,L'Oreal USA Products Inc,884,884,Avobenzone Homosalate Octisalate Octocrylene Oxybenzone,Merci Hastwell
+885,O,Natural Health Supply,885,885,SARSAPARILLA ROOT,Jacinthe Verralls
+886,O,"Stephen L. LaFrance Pharmacy, Inc.",886,886,Bisacodyl,Perri Fairfoot
+887,O,"MSD Consumer Care, Inc.",887,887,Chlorpheniramine Maleate,Irwin Waghorn
+888,O,Barr Laboratories Inc..,888,888,Acetazolamide,Carolus Brumham
+889,O,"Nelco Laboratories, Inc.",889,889,Penicillium notatum,Janeva Reith
+890,B,"Native Remedies, LLC",890,890,Equisetum arv,Karole Burrill
+891,O,"Johnson Labs, Inc.",891,891,ALCOHOL,Erhard Nani
+892,O,REMEDYREPACK INC.,892,892,BUSPIRONE HYDROCHLORIDE,Walton Shelbourne
+893,O,"SJ Creations, Inc.",893,893,Triclosan,Adrian Benoist
+894,O,Sandoz Inc.,894,894,potassium chloride,Roger Sexten
+895,O,"Watson Laboratories, Inc.",895,895,Gemcitabine Hydrochloride,Joelynn Thornthwaite
+896,O,DZA Brands LLC,896,896,Tolnaftate,Zorah Boyse
+897,O,REMEDYREPACK INC.,897,897,Ibuprofen,Janice Menilove
+898,O,Keen Compressed Gas Co. Inc.,898,898,NITROGEN,Serge Pelerin
+899,O,Apotex Corp,899,899,Omeprazole,Emylee McMarquis
+900,O,Par Pharmaceutical Inc.,900,900,amlodipine besylate and benazepril hydrochloride,Coleman Jecock
+901,A,Cardinal Health,901,901,Lisinopril,Elwood Braun
+902,A,AbbVie Inc.,902,902,Paricalcitol,Drugi Van der Merwe
+903,AB,Zydus Pharmaceuticals (USA) Inc.,903,903,Simvastatin,Hester Conradie
+904,O,"Hospira, Inc.",904,904,EPINEPHRINE,Shannen Christophe
+905,O,"Glenmark Generics Inc., USA",905,905,Fluconazole,Gipsy Scottini
+906,O,Golden State Medical Supply,906,906,Methylphenidate Hydrochloride,Perren Dabrowski
+907,O,"Libertas Pharma, Inc.",907,907,Pramoxine hydrochloride,Gerianna Alenichev
+908,O,EuroHom LLC,908,908,"APIS MELLIFERA, BAPTISIA TINCTORIA, ECHINACEA, UNSPECIFIED, CALCIUM SULFIDE, POTASSIUM DICHROMATE, LACHESIS MUTA VENOM, LUFFA OPERCULATA FRUIT, SILICON DIOXIDE, and SPONGIA OFFICINALIS SKELETON, ROASTED",Melicent Croom
+909,O,Unit Dose Services,909,909,Tramadol Hydrochloride and Acetaminophen,Bidget Mabone
+910,B,"Dr. Reddy?s Laboratories, Inc.",910,910,levalbuterol inhalation 0.63mg/3mL,Gayelord Cartan
+911,O,Unit Dose Services,911,911,Trazodone Hydrochloride,Berti Pauel
+912,O,"Physicians Total Care, Inc.",912,912,Clotrimazole,Kerri Glasscoo
+913,O,"Physicians Total Care, Inc.",913,913,Nabumetone,Alleyn Trinkwon
+914,O,"Lupin Pharmaceuticals, Inc.",914,914,LISINOPRIL AND HYDROCHLOROTHIAZIDE,Modesty Garlett
+915,O,"Foodhold USA, LLC",915,915,White Petrolatum,Jervis Freyn
+916,O,Parfums Christian Dior,916,916,OCTINOXATE,Hal Cossins
+917,O,Accord Healthcare Inc.,917,917,pioglitazone hydrochloride,Noach Mouland
+918,O,Mylan Institutional Inc.,918,918,lisinopril,Reine Alten
+919,O,"Pharmaceutical Associates, Inc.",919,919,GUAIFENESIN and DEXTROMETHORPHAN,Ody Geer
+920,O,Oceanside Pharmaceuticals,920,920,Diltiazem Hydrochloride,Bill Praill
+921,A,"MSD Consumer Care, Inc.",921,921,Loratadine,Richardo Lanfere
+922,A,MDSolarSciences,922,922,Titanium Dioxide and Zinc Oxide,Roddy Filchakov
+923,AB,"Camber Pharmaceuticals, Inc.",923,923,Levetiracetam,Romona Craske
+924,O,"Preferred Pharmaceuticals, Inc",924,924,Bismuth Subsalicylate,Lexie Duckers
+925,O,Ricola Ag,925,925,MENTHOL,Rowena Alton
+926,O,"Tec Laboratories, Inc.",926,926,"grindelia robusta, calendula officinalis",Maia Benting
+927,O,"Shertech Laboratories, LLC",927,927,AMMONIA N-13,Winston Sellen
+928,O,American Sales Company,928,928,Petrolatum,Avigdor Wordington
+929,O,"Merle Norman Cosmetics, Inc.",929,929,"Octinoxate, Titanium Dioxide",Kalie Parsley
+930,B,Apollo Health and Beauty Care,930,930,TRICLOSAN,Kyla Barosch
+931,O,DSHealthcare,931,931,Triclosan,Caddric Mathouse
+932,O,"Physicians Total Care, Inc.",932,932,Tretinoin,Kattie Towlson
+933,O,Guthy-Renker LLC,933,933,"AVOBENZONE, OCTINOXATE, OCTISALATE, and OXYBENZONE",Lek Muckleston
+934,O,"Hospira, Inc.",934,934,MEPERIDINE HYDROCHLORIDE,Magdalen Jeandeau
+935,O,Laboratoires Boiron,935,935,"HORSE CHESTNUT, COLLINSONIA CANADENSIS ROOT, HAMAMELIS VIRGINIANA ROOT BARK/STEM BARK",Felice Feely
+936,O,"Matrixx Initiatives, Inc.",936,936,zinc acetate and zinc gluconate,Gauthier Normaville
+937,O,Ventura Corporation LTD.,937,937,Octinoxate and Oxybenzone,Bart Burghall
+938,O,Meijer Distribution Inc,938,938,Hydrocortisone,Bibbie Dow
+939,O,A-S Medication Solutions LLC,939,939,Tretinoin,Claudio Shilling
+940,O,"Magna Pharmaceuticals, Inc.",940,940,hydrocodone bitartrate and acetaminophen,Gran Woller
+941,A,Wakefern Food Corporation,941,941,Famotidine,Ryon Simoncini
+942,A,Safeway,942,942,"ACETAMINOHPEN, DEXTROMETHORPHAN HBr, PHENYLEPHRINE HCL",Shandra Kilner
+943,AB,Massco Dental A Division of Dunagin Pharmaceuticals,943,943,STANNOUS FLUORIDE,Charity Wixon
+944,O,"BioActive Nutritional, Inc.",944,944,Centaury,Jeniffer McLucas
+945,O,"SDA Laboratories, Inc.",945,945,Diphenhydramine HCL,Graham Jorgensen
+946,O,Kroger Company,946,946,"Acetaminophen, Dextromethorphan HBr, Guaifenesin, Phenylephrine HCl",Atalanta Caldroni
+947,O,Stat Rx USA,947,947,Promethazine DM,Lotte Tregonna
+948,O,Mylan Pharmaceuticals Inc.,948,948,lisinopril,Daven Ackeroyd
+949,O,"Newton Laboratories, Inc.",949,949,"Arg. met., Arsenicum alb, Aur. met., Bovista, Bryonia, Chelidonium majus, Chionanthus virginica, Gaultheria procumbens, Helonias dioica, Iris versicolor, Lycopodium, Nux vom, Phosphorus, Rhus toxicodendron, Sabal, Syzygium, Cynara, Echinacea, Iris versicolor, Thuja occ., Urtica ur",Carena Brydell
+950,B,Baxter Healthcare Corporation,950,950,DESFLURANE,Larisa Jonuzi
+951,O,"La Prairie, Inc.",951,951,OCTINOXATE,Ellynn Bunstone
+952,O,"PD-Rx Pharmaceuticals, Inc.",952,952,Amoxicillin,Valerye Tapscott
+953,O,Lundbeck LLC,953,953,droxidopa,Maddi Tremblet
+954,O,LUPIN PHARMA,954,954,fenofibrate,Loise Smorthwaite
+955,O,Coty US LLC,955,955,Titanium Dioxide,Torr Tissier
+956,O,"Hospira, Inc.",956,956,VANCOMYCIN HYDROCHLORIDE,Brok Kirman
+957,O,Bryant Ranch Prepack,957,957,Benazepril Hydrochloride and Hydrochlorothiazide,Ambur Gajewski
+958,O,McKesson Packaging Services Business Unit of McKesson Corporation,958,958,Ketorolac Tromethamine,Julie Murtimer
+959,O,Clinical Solutions Wholesale,959,959,Cefuroxime Axetil,Garrick Lavrick
+960,O,"Physicians Total Care, Inc.",960,960,fluticasone propionate,Nerty Gayton
+961,A,"AMI Cosmetic Co.,Ltd.",961,961,Zinc oxide,Kathe Kirckman
+962,A,"A-Welders and Medical Supply, Inc",962,962,OXYGEN,Lynnea Naton
+963,AB,Physicians Formula Inc.,963,963,"Octinoxate, Octocrylene, Titanium Dioxide, Zinc Oxide",Pattie Acum
+964,O,Family Dollar Services Inc,964,964,"camphor, menthol, eucalyptus oil",Regina Oakenfield
+965,O,Kroger,965,965,Mineral Oil,Monroe Issitt
+966,O,"Dharma Research, inc.",966,966,Sodium Fluoride,Doro Gianotti
+967,O,"Janssen Pharmaceutical, Inc.",967,967,risperidone,Lilla Rostern
+968,O,"Bayer HealthCare LLC, Consumer Care",968,968,"Aspirin, Doxylamine succinate, Phenylephrine bitartrate, and Dextromethorphan hydrobromide",Harlan Bilam
+969,O,CVS Pharmacy,969,969,SALICYLIC ACID,Bernardina Nizet
+970,B,"Forest Laboratories, Inc.",970,970,milnacipran hydrochloride,Gay Float
+971,O,WALGREEN CO.,971,971,LIDOCAINE MENTHOL,Son Muffitt
+972,O,"Takeda Pharmaceuticals America, Inc.",972,972,lansoprazole,Ikey Havile
+973,O,Zydus Pharmaceuticals USA Inc,973,973,Clarithromycin,Belva Huckell
+974,O,Aero All Gas Company,974,974,Oxygen Helium Mixture 40/60,Hester Uzielli
+975,O,DZA Brands LLC,975,975,Triclosan,Addison Lantuffe
+976,O,STAT RX USA LLC,976,976,LOSARTAN POTASSIUM AND HYDROCHLOROTHIAZIDE,Lilas Roseby
+977,O,Supervalu Inc,977,977,Hydrocortisone,Junina Handes
+978,O,STAT Rx USA LLC,978,978,MIRTAZAPINE,Kenon Jozsef
+979,O,Cobalt Laboratories,979,979,sumatriptan succinate,Dame Gammon
+980,O,Rebel Distributors Corp,980,980,Midodrine Hydrochloride,Demetre Britney
+981,A,ESTEE LAUDER INC,981,981,TITANIUM DIOXIDE,Georgeanna O'Sirin
+982,A,Mylan Institutional LLC,982,982,Cytarabine,Phillie Dowall
+983,AB,Ventura International LTD,983,983,Octinoxate and Titanium Dioxide,Marinna Lardner
+984,O,"AvKARE, Inc.",984,984,Diltiazem Hydrochloride,Lisetta Cazalet
+985,O,"Autumn Harp, Inc.",985,985,"Zinc Oxide, Titanium Dioxide",Shaylyn Lethbridge
+986,O,"Physicians Total Care, Inc.",986,986,paroxetine hydrochloride,Ilse Pristnor
+987,O,"Hospira Worldwide, Inc.",987,987,METHOTREXATE SODIUM,Geralda Conboy
+988,O,REMEDYREPACK INC.,988,988,Tetracycline Hydrochloride,Danila Batstone
+989,O,Teva Pharmaceuticals USA Inc,989,989,Calcitriol,Kelsey Ousby
+990,B,"Hospira, Inc",990,990,Ampicillin and Sulbactam,Noami Alti
+991,O,Barr Laboratories Inc.,991,991,Norethindrone and Ethinyl Estradiol,Brier Dumphries
+992,O,Major Pharmaceuticals,992,992,Labetalol hydrochloride,Domenic Eede
+993,O,"AMI Cosmetic Co.,Ltd.",993,993,GLYCERIN,Nicolai Jori
+994,O,Jafra Cosmetics International Inc,994,994,"Octinoxate, Octisalate, Oxybenzone",Silvester Yurmanovev
+995,O,Accord Healthcare Inc.,995,995,Quetiapine fumarate,Preston Burbridge
+996,O,Cardinal Health,996,996,Mirtazapine,Dorise Bocke
+997,O,Mylan Institutional Inc.,997,997,Hydrocodone Bitartrate And Acetaminophen,Francis Booton
+998,O,NATURALRX LLC,998,998,"NEEM OIL, TEA TREE OIL",Hadley Yackiminie
+999,O,"Janssen Pharmaceuticals, Inc.",999,999,risperidone,Montague Bray
+1000,O,"Hospira, Inc.",1000,1000,Lorazepam,Broderick Lanning
