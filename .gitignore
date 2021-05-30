@@ -130,3 +130,4 @@ dmypy.json
 
 # custom
 /backend/secure-connect-medbay.zip
+/backend/GeneratedToken
