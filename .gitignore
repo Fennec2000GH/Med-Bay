@@ -131,3 +131,5 @@ dmypy.json
 # custom
 /backend/secure-connect-medbay.zip
 /backend/GeneratedToken
+/backend/credentials-eb59aa-2021-May-29--23_45_58.csv
+/backend/sawo_keys.csv
