@@ -108,8 +108,16 @@ Current Address :
 
 <label for="psw-repeat"><b>Re-type Password</b></label>  
 <input type="password" placeholder="Retype Password" name="psw-repeat" required>  
-<input type="button" value="Submit"/> 
+<input type="button" value="Submit" onclick="register()"/> 
 
 </form>  
+
+<!-- Registration Successful -->
+<script>
+    function register() {
+        alert("Registration successful!");
+    }
+</script>
+
 </body>  
 </html>  

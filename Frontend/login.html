@@ -121,12 +121,20 @@
         <input type="text" name="" placeholder="Enter Username">
         <p> Password</p>
         <input type="password" name="" placeholder="Enter Password"><br>
-        <input type="submit" name="" value="Login">
-        <a href="#">Lost your password?</a><br>
+        <input type="submit" name="" value="Login" onclick="login()"></a>
+        <a href="./data.html"> Data </a>
+        <br/>
         <a href="#">Don't have an acoount?</a>
     </form>
 
     </div>
+
+    <!-- Submit Login Credentials -->
+    <script>
+        function login() {
+            alert("Successfully logged in!");
+        }
+    </script>
 
     <!-- Bootstrap -->
     <script src="js/jquery-2.1.4.min.js"></script>
